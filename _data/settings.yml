@@ -1,0 +1,17 @@
+title:  Teebolt
+tagline:  UI Design & Web Development
+author:
+  name: "Tyler Bolchoz"
+  twitter:  tbolt
+
+menu:
+- {name: 'About', url: 'about.html'}
+- {name: 'Contact', url: 'contact.html'}
+
+social:
+- {icon: 'github', link: 'https://www.github.com/teebolt'}
+- {icon: 'twitter', link: 'https://twitter.com/tbolt'}
+- {icon: 'instagram', link: 'https://instagram.com/teebolt'}
+- {icon: 'envelope', link: 'mailto:ty.bolchoz@gmail.com'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer

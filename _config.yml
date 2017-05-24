@@ -1,0 +1,9 @@
+# Site Settings
+
+paginate:            12
+
+# Build settings
+markdown:            markdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
