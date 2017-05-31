@@ -3,7 +3,7 @@
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   color: #515151;/*#3A3A3A;/*rgba(0,0,0,.8);/*#666;*/
   line-height: 1.75rem;
@@ -28,7 +28,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: 'Inconsolata', monospace;
   color: #333;
 }
 
@@ -106,7 +106,7 @@ blockquote p {
 
 @media (max-width: 1366px) {
   .container {
-    width: 45vw;
+    width: 47vw;
   }
 }
 
@@ -137,8 +137,14 @@ blockquote p {
   text-decoration: none;
   color: #505050;
 }
-
+h3.masthead-title {
+  float: left;
+  margin-bottom: 2rem;
+}
 .masthead-subtitle {
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  float: left;
   color: #999;
 }
 
@@ -239,7 +245,8 @@ blockquote p {
 */
 
 .menu {
-  padding-top: 0.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
   display: block;
 }
 
