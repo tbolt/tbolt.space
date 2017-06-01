@@ -2,4 +2,4 @@
 layout: page
 title: About
 ---
-User Interface Designer, innovation advocate, & outdoor enthusiast.
+User Interface Designer, web developer, & innovation advocate.
