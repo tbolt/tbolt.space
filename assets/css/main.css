@@ -28,7 +28,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Inconsolata', monospace;
+  font-family: 'Space Mono', monospace;
   color: #333;
 }
 
@@ -90,9 +90,6 @@ blockquote:before {
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
-blockquote p {
-  display: inline;
-}
 
 /*
   Site container
@@ -145,7 +142,7 @@ h3.masthead-title {
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
   float: left;
-  color: #999;
+  color: #5AB482;;
 }
 
 /*

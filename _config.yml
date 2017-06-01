@@ -3,7 +3,7 @@
 paginate:            11
 
 # Build settings
-markdown:            kramdown
+markdown:            markdown
 highlighter:         rouge
 permalink:           none
 gems:                [jekyll-paginate, jekyll-feed]
