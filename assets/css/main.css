@@ -135,6 +135,8 @@ blockquote:before {
   font-size: 2rem;
   text-decoration: none;
   color: #505050;
+  float: left;
+  margin-right: 1rem;
 }
 h3.masthead-title {
   float: left;
