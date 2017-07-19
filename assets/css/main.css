@@ -20,7 +20,8 @@ body {
 }
 
 h1{
-  font-size: 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 h1 a {
@@ -123,7 +124,7 @@ blockquote:before {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Space Mono", sans-serif;
 }
 
 .masthead a:hover {
@@ -164,7 +165,7 @@ h3.masthead-title {
   display: block;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Space Mono', sans-serif;
   font-size:0.8rem;
 }
 
@@ -193,7 +194,7 @@ h3.masthead-title {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Space Mono', sans-serif;
   text-align: center;
 }
 
