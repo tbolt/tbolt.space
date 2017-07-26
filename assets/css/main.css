@@ -21,6 +21,7 @@ body {
 @media (max-width: 540px) {
   small.masthead-subtitle {
     float: left;
+    clear: left;
   }
 }
 
@@ -97,6 +98,11 @@ blockquote:before {
   vertical-align: -0.4em;
 }
 
+@media (max-width: 48em) {
+  .post-container {
+    padding-top: 2rem;
+  }
+}
 /*
   Site container
 */
@@ -109,14 +115,14 @@ blockquote:before {
 
 @media (max-width: 1366px) {
   .container {
-    width: 70vw;
+    max-width: 65vw;
   }
 }
 
 
 @media (max-width: 48em) {
   .container {
-    width: 75vw;
+    max-width: 95vw;
   }
 }
 
@@ -153,6 +159,7 @@ blockquote:before {
 
 .post-container {
   margin-bottom: 4rem;
+  clear: both;
 }
 
 .posts {
@@ -251,6 +258,7 @@ blockquote:before {
 
 .menu-content {
   float: left;
+  clear: left;
 }
 
 .menu-content a {
@@ -269,9 +277,10 @@ blockquote:before {
   font-size: 1rem;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 48em) {
   .social-icons {
     float: left;
+    clear: left;
     padding-top: 0.5rem;
   }
 }
