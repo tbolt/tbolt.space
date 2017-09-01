@@ -1,3 +1,3 @@
-# Teebolt.com
+# Tbolt.space
 
-Site for teebolt.com
+Site for tbolt.space
