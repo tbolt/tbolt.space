@@ -4,7 +4,7 @@ title: 'Nintendo&#8217;s Focus'
 date: 2014-05-21T18:56:16+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=898
+guid: /?p=898
 permalink: /2014/05/21/nintendos-focus/
 categories:
   - Shenanigans

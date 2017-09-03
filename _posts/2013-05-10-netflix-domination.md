@@ -4,7 +4,7 @@ title: Netflix Domination
 date: 2013-05-10T09:05:51+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=720
+guid: /?p=720
 permalink: /2013/05/10/netflix-domination/
 categories:
   - Technology

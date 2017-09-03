@@ -4,7 +4,7 @@ title: Typography in History
 date: 2013-08-08T12:58:04+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=795
+guid: /?p=795
 permalink: /2013/08/08/typography-in-history/
 categories:
   - Technology

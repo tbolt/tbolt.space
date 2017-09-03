@@ -4,7 +4,7 @@ title: Putting Thought into Things
 date: 2014-08-23T10:55:41+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=944
+guid: /?p=944
 permalink: /2014/08/23/putting-thought-into-things/
 categories:
   - Technology

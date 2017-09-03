@@ -4,7 +4,7 @@ title: Be Careful What You Geotag
 date: 2014-03-23T10:40:10+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=861
+guid: /?p=861
 permalink: /2014/03/23/be-careful-what-you-geotag/
 categories:
   - Technology

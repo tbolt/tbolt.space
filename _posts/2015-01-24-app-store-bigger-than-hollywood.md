@@ -4,7 +4,7 @@ title: App Store Bigger than Hollywood
 date: 2015-01-24T10:23:04+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=964
+guid: /?p=964
 permalink: /2015/01/24/app-store-bigger-than-hollywood/
 categories:
   - Technology

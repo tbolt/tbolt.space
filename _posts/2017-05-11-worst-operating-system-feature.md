@@ -4,7 +4,7 @@ title: Worst Operating System Feature
 date: 2017-05-11T15:38:34+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=1118
+guid: /?p=1118
 permalink: /2017/05/11/worst-operating-system-feature/
 categories:
   - Shenanigans

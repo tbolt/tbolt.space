@@ -4,7 +4,7 @@ title: The Extraordinary Science of Addictive Junk Food
 date: 2015-12-15T16:17:05+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=1063
+guid: /?p=1063
 permalink: /2015/12/15/the-extraordinary-science-of-addictive-junk-food/
 categories:
   - Shenanigans

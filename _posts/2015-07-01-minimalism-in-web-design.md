@@ -4,7 +4,7 @@ title: Minimalism in Web Design
 date: 2015-07-01T10:59:16+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=1022
+guid: /?p=1022
 permalink: /2015/07/01/minimalism-in-web-design/
 categories:
   - Technology

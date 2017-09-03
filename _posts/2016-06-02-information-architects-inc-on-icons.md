@@ -4,7 +4,7 @@ title: 'Information Architects Inc. &#8220;On Icons&#8221;'
 date: 2016-06-02T20:00:34+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=1078
+guid: /?p=1078
 permalink: /2016/06/02/information-architects-inc-on-icons/
 categories:
   - Technology

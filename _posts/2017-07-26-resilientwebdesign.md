@@ -4,7 +4,7 @@ title: Excerpt from Resilient Web Design
 date: 2017-07-26T20:38:34+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=1120
+guid: /?p=1120
 permalink: /2017/07/26/resilient-web-design/
 categories:
   - Technology

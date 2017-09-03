@@ -4,7 +4,7 @@ title: Google Knows Water
 date: 2015-04-19T19:12:23+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=982
+guid: /?p=982
 permalink: /2015/04/19/google-knows-water/
 categories:
   - Shenanigans

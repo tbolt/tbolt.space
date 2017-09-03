@@ -4,7 +4,7 @@ title: Great Advice from Jakob Nielsen
 date: 2014-05-04T12:43:20+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=886
+guid: /?p=886
 permalink: /2014/05/04/great-advice-from-jakob-nielsen/
 categories:
   - Technology

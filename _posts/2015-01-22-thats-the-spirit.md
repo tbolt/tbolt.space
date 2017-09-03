@@ -4,7 +4,7 @@ title: 'That&#8217;s The Spirit'
 date: 2015-01-22T21:31:59+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=962
+guid: /?p=962
 permalink: /2015/01/22/thats-the-spirit/
 categories:
   - Technology

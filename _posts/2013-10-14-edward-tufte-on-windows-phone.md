@@ -4,7 +4,7 @@ title: Edward Tufte on Windows Phone
 date: 2013-10-14T15:51:28+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=822
+guid: /?p=822
 permalink: /2013/10/14/edward-tufte-on-windows-phone/
 categories:
   - Technology

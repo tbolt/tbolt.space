@@ -4,7 +4,7 @@ title: Designing for The Z-Axis
 date: 2014-04-23T00:04:20+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=876
+guid: /?p=876
 permalink: /2014/04/23/designing-for-the-z-axis/
 categories:
   - Technology

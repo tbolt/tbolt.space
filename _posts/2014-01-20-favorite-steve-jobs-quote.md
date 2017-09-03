@@ -4,7 +4,7 @@ title: Favorite Steve Jobs Quote
 date: 2014-01-20T13:15:40+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=846
+guid: /?p=846
 permalink: /2014/01/20/favorite-steve-jobs-quote/
 categories:
   - Technology

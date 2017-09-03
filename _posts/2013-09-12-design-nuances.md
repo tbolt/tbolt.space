@@ -4,7 +4,7 @@ title: Design Nuances
 date: 2013-09-12T20:40:12+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=800
+guid: /?p=800
 permalink: /2013/09/12/design-nuances/
 categories:
   - Technology
@@ -20,7 +20,7 @@ A common thought i&#8217;ve read on iOS7 is that it brings together many great t
 
 As a neat anecdote of this, take a look at the gradient in iA Writer&#8217;s cursor and then look at the app gradient-background on the App Store icon. I didn&#8217;t do any actual color comparison in photoshop but it&#8217;s fairly easy to see the similarities. This may be a bit of a stretch and likely just a coincidence but interesting nonetheless. iA Writer has been available since 2011 and hasn&#8217;t changed a bit other than adding new features, yet iA Writer looks like it was born on iOS7.
 
-[<img class="aligncenter size-full wp-image-804" alt="App Store and iA Writer" src="http://teebolt.com/uploads/2013/09/appstore_iawriter.png" width="289" height="164" />](http://teebolt.com/uploads/2013/09/appstore_iawriter.png)
+[<img class="aligncenter size-full wp-image-804" alt="App Store and iA Writer" src="/uploads/2013/09/appstore_iawriter.png" width="289" height="164" />](/uploads/2013/09/appstore_iawriter.png)
 
 &nbsp;
 

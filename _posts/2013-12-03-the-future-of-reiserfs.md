@@ -4,7 +4,7 @@ title: The Future of ReiserFS
 date: 2013-12-03T23:14:14+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=831
+guid: /?p=831
 permalink: /2013/12/03/the-future-of-reiserfs/
 categories:
   - Technology

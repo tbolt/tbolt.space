@@ -4,7 +4,7 @@ title: John Siracusa on Interface Design
 date: 2013-07-05T13:17:41+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=768
+guid: /?p=768
 permalink: /2013/07/05/john-siracusa-on-interface-design/
 categories:
   - Technology

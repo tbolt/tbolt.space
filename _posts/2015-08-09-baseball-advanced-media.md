@@ -4,7 +4,7 @@ title: Baseball Advanced Media
 date: 2015-08-09T10:10:26+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=1026
+guid: /?p=1026
 permalink: /2015/08/09/baseball-advanced-media/
 categories:
   - Shenanigans

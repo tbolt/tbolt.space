@@ -4,12 +4,12 @@ title: Yahoo and Dropbox
 date: 2013-04-02T13:48:50+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=698
+guid: /?p=698
 permalink: /2013/04/02/yahoo-and-dropbox/
 categories:
   - Technology
 ---
-Big news today, Yahoo is partnering with Dropbox to do file attachments. Especially interesting considering Dropbox just purchased Gmail client app Mailbox. I&#8217;m going to stamp this as a Marissa Mayer move. 
+Big news today, Yahoo is partnering with Dropbox to do file attachments. Especially interesting considering Dropbox just purchased Gmail client app Mailbox. I&#8217;m going to stamp this as a Marissa Mayer move.
 
 Techcrunch:
 

@@ -4,7 +4,7 @@ title: SSDs Expected to Outpace HDD Density
 date: 2014-05-03T12:24:03+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=888
+guid: /?p=888
 permalink: /2014/05/03/ssds-expected-to-outpace-hdd-density/
 categories:
   - Technology

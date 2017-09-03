@@ -4,7 +4,7 @@ title: 'Excerpt From &#8220;About The Finder&#8230;&#8221;'
 date: 2013-12-30T08:56:49+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=828
+guid: /?p=828
 permalink: /2013/12/30/excerpt-from-about-the-finder/
 categories:
   - Technology

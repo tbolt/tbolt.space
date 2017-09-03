@@ -4,7 +4,7 @@ title: Flat Design
 date: 2013-05-29T18:16:37+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=734
+guid: /?p=734
 permalink: /2013/05/29/flat-design/
 categories:
   - Technology

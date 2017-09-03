@@ -4,7 +4,7 @@ title: Interesting Concept for Bluetooth Speaker
 date: 2013-05-14T20:18:05+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=728
+guid: /?p=728
 permalink: /2013/05/14/interesting-concept-for-bluetooth-speaker/
 categories:
   - Shenanigans

@@ -4,7 +4,7 @@ title: 'Ryan Seacrest&#8217;s iPhone Keyboard'
 date: 2014-12-09T20:16:55+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=956
+guid: /?p=956
 permalink: /2014/12/09/ryan-seacrests-iphone-keyboard/
 categories:
   - Technology

@@ -4,7 +4,7 @@ title: iPhone Loyalty
 date: 2013-07-23T17:11:44+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=783
+guid: /?p=783
 permalink: /2013/07/23/iphone-loyalty/
 categories:
   - Shenanigans

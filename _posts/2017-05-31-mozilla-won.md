@@ -4,7 +4,7 @@ title: Mozilla Won
 date: 2017-05-31T20:38:34+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=1119
+guid: /?p=1119
 permalink: /2017/05/31/mozilla-won/
 categories:
   - Technology

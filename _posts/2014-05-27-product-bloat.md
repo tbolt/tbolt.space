@@ -4,7 +4,7 @@ title: Product Bloat
 date: 2014-05-27T11:56:39+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=902
+guid: /?p=902
 permalink: /2014/05/27/product-bloat/
 categories:
   - Technology

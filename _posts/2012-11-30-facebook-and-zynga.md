@@ -4,7 +4,7 @@ title: Facebook and Zynga
 date: 2012-11-30T16:50:10+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=640
+guid: /?p=640
 permalink: /2012/11/30/facebook-and-zynga/
 categories:
   - Technology

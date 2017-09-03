@@ -4,7 +4,7 @@ title: '&#8220;It’s absurd, but explanatory&#8221;'
 date: 2015-10-25T10:01:21+00:00
 author: Tyler Bolchoz
 layout: post
-guid: http://teebolt.com/?p=1043
+guid: /?p=1043
 permalink: /2015/10/25/its-absurd-but-explanatory/
 categories:
   - Shenanigans
