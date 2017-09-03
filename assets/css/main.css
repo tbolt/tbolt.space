@@ -3,7 +3,7 @@
 body {
   font-family: 'Roboto Mono', sans-serif;
   font-size: 16px;
-  color: #505050;
+  color: #333;
   line-height: 1.65rem;
 }
 @media (max-width: 30em) {
@@ -27,6 +27,7 @@ h1 {
 }
 h1 a {
   text-decoration: none;
+  color: #333;
 }
 h1,
 h2,
@@ -35,12 +36,12 @@ h4,
 h5,
 h6 {
   font-family: 'Roboto Mono', sans-serif;
-  color: #505050;
+  color: #333;
 }
 a {
   text-decoration: underline;
   /*border-bottom: 1px solid black;*/
-  color: #505050;
+  color: #5AB482;
   /*#FF333E;*/
   -o-transition: .5s;
   -ms-transition: .5s;
@@ -50,7 +51,7 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: orange;
   /*#999;*/
   border-bottom: none;
 }
@@ -127,7 +128,7 @@ blockquote:before {
 .masthead-title a {
   font-size: 2rem;
   text-decoration: none;
-  color: #505050;
+  color: #333;
   float: left;
   margin-right: 1rem;
 }
