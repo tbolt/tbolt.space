@@ -1,7 +1,7 @@
 ---
 id: 1123
 title: Matthew Green on Encryption
-date: 2017-09-07T20:11:34+00:00
+date: 2017-10-16T20:11:34+00:00
 author: Tyler Bolchoz
 layout: post
 guid: /?p=1123

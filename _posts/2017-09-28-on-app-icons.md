@@ -1,7 +1,7 @@
 ---
 id: 1122
 title: On App Icons
-date: 2017-09-07T20:11:34+00:00
+date: 2017-09-28T20:11:34+00:00
 author: Tyler Bolchoz
 layout: post
 guid: /?p=1122
