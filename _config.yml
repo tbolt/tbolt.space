@@ -1,10 +1,9 @@
 # Site Settings
-
 paginate:            7
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-gems:                [jekyll-paginate, jekyll-feed]
+plugins:             [jekyll-paginate, jekyll-feed]
 

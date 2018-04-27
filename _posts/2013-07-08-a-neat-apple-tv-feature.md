@@ -13,10 +13,10 @@ I was scooting around on my Apple TV after the update that brought HBO Go and I 
 
 Here is the setting to enable it
 
-[<img src="/uploads/2013/07/photo-4-1024x730.png" alt="photo-4" width="640" height="456" class="aligncenter size-large wp-image-774" srcset="/uploads/2013/07/photo-4-1024x730.png 1024w, /uploads/2013/07/photo-4-300x213.png 300w, /uploads/2013/07/photo-4.png 1534w" sizes="(max-width: 640px) 100vw, 640px" />](/uploads/2013/07/photo-4.png)
+<img src="/uploads/2013/07/photo-4-1024x730.png" alt="Apple TV settings screen" />
 
 Here are a couple snaps of it in action
 
-[<img src="/uploads/2013/07/photo-2-e1373337619312-1024x768.jpg" alt="photo 2" width="640" height="480" class="aligncenter size-large wp-image-776" srcset="/uploads/2013/07/photo-2-e1373337619312-1024x768.jpg 1024w, /uploads/2013/07/photo-2-e1373337619312-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](/uploads/2013/07/photo-2.jpg)
+<img src="/uploads/2013/07/photo-2-e1373337619312-1024x768.jpg" alt="Apple TV screensaver with 3 movie posters" />
 
-[<img src="/uploads/2013/07/photo-3-e1373337548357-1024x768.jpg" alt="photo 3" width="640" height="480" class="aligncenter size-large wp-image-777" srcset="/uploads/2013/07/photo-3-e1373337548357-1024x768.jpg 1024w, /uploads/2013/07/photo-3-e1373337548357-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](/uploads/2013/07/photo-3.jpg)
+<img src="/uploads/2013/07/photo-3-e1373337548357-1024x768.jpg" alt="Apple TV screensaver with 3 movie posters" />
