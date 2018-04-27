@@ -1,7 +1,7 @@
 <div class="menu">
   <nav class="menu-content">
-    {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/menu/{{ item.url }}">{{ item.name }}</a>
+    {% for item in site.data.settings.pages %}
+      <a href="{{ site.github.url }}/pages/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
     <a href="{{ site.github.url }}/feed">RSS</a>
   </nav>

@@ -3,10 +3,9 @@ tagline:  UI Design & Web Development
 author:
   twitter:  tbolt
 
-menu:
+pages:
 - {name: 'About', url: 'about'}
 - {name: 'Contact', url: 'contact'}
-- {name: 'Portfolio', url: 'portfolio'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/tbolt'}
