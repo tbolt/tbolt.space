@@ -15,8 +15,8 @@ image: uploads/2011/08/bmw4.png
     <li>H&R Suspension</li>
 </ul>
 <br>
-<img src="uploads/2011/08/bmw1.png" alt="1988 bmw 325is"/>
-<img src="uploads/2011/08/bmw2.png" alt="1988 bmw 325is"/>
-<img src="uploads/2011/08/bmw4.png" alt="1988 bmw 325is"/>
-<img src="uploads/2011/08/bmw3.png" alt="1988 bmw 325is"/>
+<img src="/uploads/2011/08/bmw1.png" alt="1988 bmw 325is"/>
+<img src="/uploads/2011/08/bmw2.png" alt="1988 bmw 325is"/>
+<img src="/uploads/2011/08/bmw4.png" alt="1988 bmw 325is"/>
+<img src="/uploads/2011/08/bmw3.png" alt="1988 bmw 325is"/>
 

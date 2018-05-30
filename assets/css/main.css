@@ -289,3 +289,8 @@ pre {
 .fa-github:hover {
   color: #343434;
 }
+
+/* Portfolio */
+.portfolio {
+  display: flex;
+}
