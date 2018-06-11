@@ -1,0 +1,245 @@
+/* Portfolio */
+.portfolio-index {
+  max-width: 80%;
+}
+
+.homepage__thumbnail a:hover {
+  border-bottom: 2px solid #032122;
+}
+
+.homepage-section.homepage__header {
+  position: relative;
+  width: 100%;
+  line-height: 1.4;
+}
+
+@media (min-width: 1150px) {
+  .homepage-section.homepage__header {
+    padding: 1% 4%;
+    width: 34%;
+    margin-top: 100px;
+  }
+}
+
+.homepage-section {
+  margin-top: 50px;
+}
+
+.homepage__header--deck a {
+  position: relative;
+  color: #032122;
+}
+
+.homepage__header--deck a:after {
+  width: 102%;
+  content: "";
+  height: 8px;
+  background-color: #AFDFD9;
+  position: absolute;
+  bottom: 0;
+  left: -1%;
+  z-index: -1;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+.homepage__header--deck a:hover:after {
+  height: 12px;
+  bottom: -7px;
+  background-color: #71AFA3;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+.homepage__work-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.homepage__thumbnail {
+  width: 100%;
+  position: relative;
+  margin: 2%;
+  border: 2px solid #032122;
+  padding: 1%;
+  -webkit-transition: 0.3s ease !important;
+  transition: 0.3s ease !important;
+}
+
+@media (min-width: 540px) {
+  .homepage__thumbnail {
+    width: 43%;
+  }
+}
+
+@media (min-width: 700px) {
+  .homepage__thumbnail {
+    width: 32%;
+  }
+}
+
+@media (min-width: 1150px) {
+  .homepage__thumbnail {
+    width: 26%;
+  }
+}
+
+.homepage__thumbnail--featured {
+  width: 100%;
+}
+
+@media (min-width: 700px) {
+  .homepage__thumbnail--featured {
+    width: 54%;
+  }
+}
+
+@media (min-width: 1150px) {
+  .homepage__thumbnail--featured {
+    width: 45%;
+  }
+}
+
+.homepage__thumbnail--img {
+  width: 100%;
+  display: inherit;
+}
+
+.homepage__header--logo {
+  font-size: 26px;
+  font-weight: bold;
+  color: #032122;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.homepage__header--tag {
+  font-size: 16px;
+  color: #AAA;
+  font-weight: 300;
+  margin: 0;
+  line-height: 1.2;
+  font-family: "Space Mono", monospace;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.homepage__header--deck {
+  margin-top: 15px;
+}
+
+.project-decription {
+  position: absolute;
+  bottom: 20px;
+  left: -10px;
+  padding: 10px;
+  border: 2px solid #032122;
+  background-color: whitesmoke;
+  color: #032122;
+  font-family: "Space Mono", monospace;
+  margin-right: 5px;
+}
+
+.project-decription--featured {
+  font-size: 12px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  bottom: 70px;
+  text-transform: uppercase;
+}
+
+.project-decription h5 {
+  font-weight: 700;
+}
+
+.project-decription h6 {
+  text-transform: none;
+  font-weight: 300;
+  letter-spacing: 0;
+  font-size: 12px;
+}
+
+.homepage__thumbnail:hover .project-decription {
+  background-color: #333;
+  color: whitesmoke;
+  -webkit-transform: scale(1.01);
+      -ms-transform: scale(1.01);
+          transform: scale(1.01);
+  -webkit-transition: 0.3s ease !important;
+  transition: 0.3s ease !important;
+}
+
+.homepage__thumbnail:hover {
+  -webkit-transform: scale(1.02) !important;
+      -ms-transform: scale(1.02) !important;
+          transform: scale(1.02) !important;
+}
+
+.homepage__featured-work--hdr {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.portfolio-index a {
+  text-decoration: none;
+  position: relative;
+  color: #032122;
+  cursor: pointer;
+}
+
+.portfolio-index p, .project-section ul {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.portfolio-container h6 {
+  font-size: 13px;
+  margin-top: 20px;
+}
+
+.portfolio-index .site-container {
+  width: 80%;
+  padding: 0 3%;
+  max-width: 1200px;
+  margin: 30px auto 0;
+}
+
+.portfolio-index section {
+  margin-bottom: 30px;
+}
+
+.portfolio-index h1,
+.portfolio-index h2,
+.portfolio-index h3,
+.portfolio-index h4,
+.portfolio-index h5,
+.portfolio-index h6 {
+  margin: 0;
+}
+
+.portfolio-index h3,
+.portfolio-index h4,
+.portfolio-index h5 {
+  font-weight: 300;
+}
+
+
