@@ -2,8 +2,8 @@
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
-  color: #333;
-  line-height: 1.65rem;
+  color: #313F4F;
+  line-height: 1.5rem;
   background-color: whitesmoke;
 }
 @media (max-width: 30em) {
@@ -27,7 +27,7 @@ h1 {
 }
 h1 a {
   text-decoration: none;
-  color: #333;
+  color: #313F4F;
 }
 h1,
 h2,
@@ -36,15 +36,14 @@ h4,
 h5,
 h6 {
   font-family: 'Space Mono', monospace;
+  font-variant-ligatures: no-common-ligatures;
 }
 a {
-  text-decoration: underline;
-  /*border-bottom: 1px solid black;*/
-  color: #5AB482;
-  /*#FF333E;*/
+  color: #F44A06;
+  text-decoration: none;
 }
 a:hover {
-  color: #5664ff;
+  text-decoration: underline;
 }
 
 img {
@@ -89,20 +88,18 @@ header {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
-header a:hover {
-  color: black;
-}
 .masthead-title a {
+  color: #313F4F;
   font-size: 2rem;
   text-decoration: none;
-  color: #333;
   float: left;
   margin-right: 1rem;
 }
 .masthead-subtitle {
+  color: #F44A06;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-  color: #5AB482;
+  font-weight: 400;
 }
 /*
   Post
@@ -175,7 +172,7 @@ footer a {
   text-decoration: none;
 }
 footer a:hover {
-  color: #333;
+  color: #313F4F;
 }
 /*
   Menu
