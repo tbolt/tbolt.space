@@ -7,7 +7,7 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-feed]
 
-# We specify the directory for Jekyll so we can use @imports.
+# Sass settings
 sass:
   sass_dir:          _scss
 style: :compressed

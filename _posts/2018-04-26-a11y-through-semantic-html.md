@@ -4,7 +4,7 @@ title: Accessibility Through Semantic HTML
 date: 2018-04-26
 layout: post
 guid: /?p=1125
-permalink: /2018/01/12/vintage-soviet-control-rooms
+permalink: /2018/01/12/a11y-through-semantic-html
 categories:
   - Technology
 ---

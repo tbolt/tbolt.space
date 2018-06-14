@@ -11,9 +11,15 @@
 }
 
 .portfolio-item section {
-    margin: 0 auto;
-    max-width: 90ch;
+  margin: 4rem auto;
+  max-width: 90ch;
 }
+
+.portfolio-item section:first-child {
+  margin-top: 0;
+}
+
 .column--heavy {
-  max-width: 70%;
+  max-width: 65%;
+  margin-right: 2rem;
 }

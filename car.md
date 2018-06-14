@@ -4,7 +4,6 @@ title: BMW E30
 date: 2011-08-11T13:54:16+00:00
 author: Tyler Bolchoz
 layout: page
-guid: /?page_id=105
 image: uploads/2011/08/bmw4.png
 ---
 <ul>
