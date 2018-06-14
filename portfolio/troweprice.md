@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: portfolio
 title: Portfolio
 ---
 
