@@ -8,6 +8,7 @@ title: Portfolio
       <section class="portfolio-section portfolio__header">
         <h1 class="portfolio__header--logo"><a href="/">Tyler Bolchoz</a></h1>
         <h1 class="portfolio__header--tag">UI Designer & Front-End Developer</h1>
+        <h4 class="portfolio__header--company">@ <a class="fearless" href="https://fearless.tech">Fearless</a></h4>
         <h4 class="portfolio__header--deck">Using human-centered design and design thinking I solve problems in a functional but asthetic manner.</h4>
       </section>
       <a href="/portfolio/hubzone" class="portfolio__thumbnail portfolio__thumbnail--featured">
