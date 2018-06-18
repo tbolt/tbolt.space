@@ -1,57 +1,38 @@
 ---
 layout: portfolio
-title: Template
+title: Tourbook
 ---
 <div class="portfolio-item">
   <section>
   {% include portfolio-header.html %}
     <img src="/assets/img/portfolio/tourbook-screens.png" alt="" class="thumb">
     <h1>Tourbook</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Tourbook is an app to help you track and log concerts you attend. For frequent concert-goers, remembering the details of past concerts can be tough. "Where did we see them?" "What did they play?" are questions that often spring up and it can be hard to recall long after. Tourbook makes it simple to log and organize all of the concerts you attend over a lifetime.</p>
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>When I started this project I was curious about using React Native, so that's what I used. React Native is nice, but I found keeping up with the release cycle to be tough early on.</p>
+        <p>Doing both the design and development is fun and provides a lot of autonomy but is limiting given lack of time.</p>
+        <p>Coming up with a business model for something this niche can be tough. Since it's more of a passion/learning project, I landed on giving it away free and having a tip jar.</p>
       </div>
       <div>
-        <h3>Contributions</h3>
+        <h3>Tech</h3>
         <ul>
-          <li>Personas</li>
-          <li>User research & testing</li>
-          <li>Wireframes</li>
-          <li>Prototypes</li>
-          <li>UI design</li>
-          <li>Accessibility/508 Compliance</li>
-          <li>Rails & Javascript Development</li>
+          <li>React</li>
+          <li>React Native</li>
+          <li>Realm.js</li>
+          <li>RN Lightbox</li>
+          <li>RN Charts</li>
+          <li>RN Blur</li>
         </ul>
       </div>
     </div>
   </section>
   <section>
-    <h2>Design Process</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
-  </section>
-  <section>
-    <h2>Another Title</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
-  </section>
-  <section>
-    <h2>User Testing</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
-  </section>
-  <section>
-    <h2>Implementation</h2>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h2>Current Status</h2>
+    <p>When I started the project in 2015 I wanted to keep it focused on some core concepts and get it out the door as quick as possible. As with many side projects though, I got side-tracked and have yet to complete development. I would like to pick it up soon, but there are a few other prorities at the moment, so don't count on it any time soon.</p>
+    <p>The project is now open source and available on <a href="https://github.com/tbolt/tourbook-app">github</a>. If you are interested in picking it up, let me know, or just PR/fork it. 👍 </p>
+    <img src="/assets/img/portfolio/tourbook-splash.jpg" alt="">
+    <p class="picture-caption"><strong>Tourbook iOS app icon</strong> final version</p>
   </section>
 </div>
