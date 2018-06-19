@@ -4,7 +4,7 @@ title: Experiments
 ---
 <h1>{{ page.title }}</h1>
 <div class="grid">
-  <a href="woah"><div class="module">1</div></a>
+  <a href="border-gradient"><div class="module">1</div></a>
   <div class="module">2</div>
   <div class="module">3</div>
   <div class="module">4</div>
