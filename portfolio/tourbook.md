@@ -16,7 +16,7 @@ title: Tourbook
         <p>Coming up with a business model for something this niche can be tough. Since it's more of a passion/learning project, I landed on giving it away free and having a tip jar.</p>
       </div>
       <div>
-        <h3>Tech</h3>
+        <h3>Tech Stack</h3>
         <ul>
           <li>React</li>
           <li>React Native</li>

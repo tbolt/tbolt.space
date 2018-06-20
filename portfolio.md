@@ -53,7 +53,7 @@ title: Portfolio
         </span>
         <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/bchd-dashboard.jpg">
       </a>
-      <a href="/portfolio/template" class="portfolio__thumbnail">
+      <a href="/portfolio/bitandpixel" class="portfolio__thumbnail">
         <span class="project-decription">
         <h5>Bit & Pixel</h5>
         <h6>Freelance Web Design and Development</h6>

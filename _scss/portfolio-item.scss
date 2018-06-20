@@ -19,6 +19,11 @@
   margin-top: 0;
 }
 
+.portfolio-item section:first-child img {
+  margin: 0 auto;
+  display: flex;
+}
+
 .column--heavy {
   max-width: 65%;
   margin-right: 2rem;

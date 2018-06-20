@@ -1,19 +1,14 @@
 ---
 layout: portfolio
-title: Small Business Administration HUBZone
+title: Small Business Administration HUBZone Map
 ---
 <div class="portfolio-item">
-  <nav class="grid grid--medium">
-    <div class="brand column--heavy">
-      <!-- <a href="/">Tyler Bolchoz</a> -->
-      <a href="/portfolio">Back to portfolio</a>
-    </div>
-  </nav>
   <section>
+  {% include portfolio-header.html %}
     <img src="/assets/img/portfolio/hubzone-map-iphone.png" alt="" class="thumb">
     <h1>HUBZone Map</h1>
     <p>The Historically Underutilized Business Zones (HUBZone) program, offered by the Small Business Administration, helps small businesses in low-income areas gain access to federal contracting opportunities. A company’s HUBZone certification is dependent on several key factors mostly concerning where a company and it's employees are located. The HUBZone Map provides an easy way to determine if your home or office are in qualified zones.</p>
-    <div class="grid grid--medium">
+    <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
         <p>The expectations for mapping applications are extremely high given consumer products such as Google Maps. Creating an experience for HUBZone participants and potential participants, we wanted to match these expectations.</p>
@@ -37,31 +32,21 @@ title: Small Business Administration HUBZone
   </section>
   <section>
     <h2>Design Process</h2>
-    <p>what else</p>
-    <p>was important on this project</p>
+    <p>We started by doing discovery, user research, and persona generation. Early on we sat with individuals at the Small Business Administration who relied heavily on the map to perform their jobs. Their feedback was invaluable and heavily influenced the product.</p>
+    <p>Once we felt confident that we had enough sense of the needs of the users, we started prototyping, testing, and iterating. This is a pretty common practice in human-centered design, but it cannot be overstated just how important it is. We found issues early and could easily pivot without much or any disruption to development.</p>
     <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p><strong>Invision Prototype</strong> was key for stakeholder communication</p>
+    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
   </section>
   <section>
-    <h2>Accessibility Study</h2>
-    <p>we did in-person testing</p>
-    <p>partnered with us digital service</p>
+    <h2>Usability & A11y Testing</h2>
+    <p>Often accessibility is an afterthought or sold as a bolt-on solution. We knew this was wrong and wanted to bake it in to our process throughout. So we did just that. </p>
+    <p>Check out the article <a href="#">Desiging with blind people</a> for all of the details behind this study.</p>
     <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p><strong>Initial Wireframes</strong> helped guide discussion.</p>
-  </section>
-  <section>
-    <h2>User Testing</h2>
-    <p>even more info</p>
-    <p>about what we did</p>
-    <p>and how that made it successful</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p><strong>Iterations</strong> were helpfup</p>
+    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
   </section>
   <section>
     <h2>Implementation</h2>
-    <p>i did some of it</p>
-    <p>even a handful of the rails backend development</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p><strong>Tech stack</strong> for fun</p>
+    <p>To help speed up delivery, I took on a fair amount of the development. This proved to be very beneficial. Instead of a design hand-off, I would simply implement my own designs. This allowed a designers level-of-detail to materialize in the app.</p>
+    <p>Additionally, I learned Ruby on Rails and a number of related technologies. Some highlights include helping build a generated PDF from mapping data, working with Google Maps JS API, using Geolocation API, and search Autocomplete.</p>
   </section>
 </div>
