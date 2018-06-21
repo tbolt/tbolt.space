@@ -41,8 +41,6 @@ title: Small Business Administration HUBZone Map
     <h2>Usability & A11y Testing</h2>
     <p>Often accessibility is an afterthought or sold as a bolt-on solution. We knew this was wrong and wanted to bake it in to our process throughout. So we did just that. </p>
     <p>Check out the article <a href="http://fearless.tech/blog/2017/06/06/case-study-hubzone-map-508-process"><strong>HUBZone Map 508 Process</strong></a> for all of the details behind this study.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
   </section>
   <section>
     <h2>Implementation</h2>
