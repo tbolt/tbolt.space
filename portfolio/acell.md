@@ -5,14 +5,14 @@ title: Acell
 <div class="portfolio-item">
   <section>
   {% include portfolio-header.html %}
-    <img src="/assets/img/portfolio/hubzone-map-iphone.png" alt="" class="thumb">
+    <img src="/assets/img/portfolio/acell-ipad.png" alt="" class="thumb">
     <h1>Acell</h1>
-    <p>Acell provides doctors a leading-edge treatment for regenerative skin growth.</p>
+    <p>Acell provides doctors and their patients leading-edge healing treatments with their innovative regenerative medical technology. Their sales team was looking for an easier way to engage with doctors, so an iPad App was created to manage the end-to-end relationship from lead to order.</p>
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
-        <p>This project began in 2013, which was only a few years after the iPad was released.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>This project began in 2013, which was only a few years after the iPad was released. This provided a fresh canvas for new interaction patterns and designs, but a bit challenging since there were not many conventions.</p>
+        <p>Some of the project goals were fairly ambitious, such as a digital signature input</p>
       </div>
       <div>
         <h3>Contributions</h3>
@@ -27,28 +27,17 @@ title: Acell
   </section>
   <section>
     <h2>Design Process</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Given a tight timeline I started with discovery. Through discussions with the stakeholders, I then translated the ideas and concepts provided by the stakeholders into sketchs.</p>
+    <p>The sketches provided a helpful starting point and once gaining buy-in I quickly moved on to low-fidelity wireframes using Wires by Quirktools</p>
     <img src="/assets/img/portfolio/placeholder.png" alt="">
     <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
   </section>
   <section>
-    <h2>Another Title</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
-  </section>
-  <section>
-    <h2>User Testing</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
+    <h2>Mockups</h2>
+    <p>While the wireframes provided a solid foundation and mapped out the IA, the overall "feel" of the app was missing. To help develop a better picture of how the app would look, I developed a high-fidelity mockup (shown above) of the sales-entry page.</p>
   </section>
   <section>
     <h2>Implementation</h2>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>To help speed up development, I took on some of the front-end UI work. More specifically I focused on bringing the designs to life with HTML/css.</p>
   </section>
 </div>

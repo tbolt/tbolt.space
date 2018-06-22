@@ -7,51 +7,24 @@ title: Bit & Pixel
   {% include portfolio-header.html %}
     <img src="/assets/img/portfolio/dev.png" alt="" class="thumb">
     <h1>Bit & Pixel</h1>
-    <p>In 2012 I started my own freelance company to work with start-ups and local businesses.</p>
+    <p>In 2012 I started my own freelance company to work with start-ups and local businesses. While I have since focused more on full-time engagements, I still like to keep it around for smaller ad-hoc engagements.</p>
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>Coming up with a name that would reflect the aims of the company was difficult. I landed on "Bit & Pixel" as they are some of the atomic pieces of computer systems. Pixel's materialize into graphical user-interfaces, and bit's are <a href="https://en.wikipedia.org/wiki/Bit">"basic units of information used in computing and digital communications."</a></p>
+        <p>Aside from the name, coming up with all the necessary bits to a brand is simply time-consuming. Managing to do this on the side can be tough.</p>
       </div>
       <div>
-        <h3>Contributions</h3>
+        <h3>Services & Tools</h3>
         <ul>
-          <li>Personas</li>
-          <li>User research & testing</li>
-          <li>Wireframes</li>
-          <li>Prototypes</li>
-          <li>UI design</li>
-          <li>Accessibility/508 Compliance</li>
-          <li>Rails & Javascript Development</li>
+          <li>UI Design</li>
+          <li>UX Design</li>
+          <li>Product Design</li>
+          <li>Web Development</li>
+          <li>Wordpress</li>
+          <li>Squarespace</li>
         </ul>
       </div>
     </div>
-  </section>
-  <section>
-    <h2>Design Process</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
-  </section>
-  <section>
-    <h2>Another Title</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
-  </section>
-  <section>
-    <h2>User Testing</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
-    <p class="picture-caption"><strong>Picture caption</strong> with a description</p>
-  </section>
-  <section>
-    <h2>Implementation</h2>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </section>
 </div>
