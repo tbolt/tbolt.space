@@ -7,7 +7,7 @@ title: Small Business Administration HUBZone Map
   {% include portfolio-header.html %}
     <img src="/assets/img/portfolio/hubzone-mockup.png" alt="" class="thumb">
     <h1>HUBZone Map</h1>
-    <p>The Historically Underutilized Business Zones (HUBZone) program, offered by the Small Business Administration, helps small businesses in low-income areas gain access to federal contracting opportunities. A company’s HUBZone certification is dependent on several key factors mostly concerning where a company and it's employees are located. The HUBZone Map provides an easy way to determine if your home or office are in qualified zones.</p>
+    <p>The Historically Underutilized Business Zones (HUBZone) program, offered by the Small Business Administration, helps small businesses in low-income areas gain access to federal contracting opportunities. A company’s HUBZone certification is dependent on several key factors mostly concerning where a company and it's employees are located. The HUBZone Map provides an easy way to determine if your home or office are in qualified zones. We we're tasked with re-designing the map to modernize it and make it easier for small-business owners to use.</p>
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
@@ -32,7 +32,7 @@ title: Small Business Administration HUBZone Map
   </section>
   <section>
     <h2>Design Process</h2>
-    <p>We started by doing discovery, user research, and persona generation. Early on we sat with individuals at the Small Business Administration who relied heavily on the map to perform their jobs. Their feedback was invaluable and heavily influenced the product.</p>
+    <p>We started by building personas, doing discovery, and performing user research. Early on we sat with individuals at the Small Business Administration who relied heavily on the map to perform their jobs. Their feedback was invaluable and heavily influenced the product.</p>
     <p>Once we felt confident that we had enough sense of the needs of the users, we started prototyping, testing, and iterating. This is a pretty common practice in human-centered design, but it cannot be overstated just how important it is. We found issues early and could easily pivot without much or any disruption to development.</p>
     <img src="/assets/img/portfolio/hubzone-experiments.jpg" alt="">
     <p class="picture-caption"><strong>Experiments and prototyping</strong> within Sketch</p>
@@ -45,6 +45,6 @@ title: Small Business Administration HUBZone Map
   <section>
     <h2>Implementation</h2>
     <p>To help speed up delivery, I took on a fair amount of the development. This proved to be very beneficial. Instead of a design hand-off, I would simply implement my own designs. This allowed a designers level-of-detail to materialize in the app.</p>
-    <p>Additionally, I learned Ruby on Rails and a number of related technologies. Some highlights include helping build a generated PDF from mapping data, working with Google Maps JS API, using Geolocation API, and search Autocomplete.</p>
+    <p>Additionally, I learned Ruby on Rails and a number of related technologies. Some highlights include helping build a generated PDF from mapping data, working with Google Maps JS API, using Geolocation API, and search autocomplete.</p>
   </section>
 </div>
