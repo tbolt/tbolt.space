@@ -11,3 +11,7 @@ plugins:             [jekyll-paginate, jekyll-feed]
 sass:
   sass_dir:          _scss
 style: :compressed
+
+# Github settings
+site.github.url: https://tbolt.space
+
