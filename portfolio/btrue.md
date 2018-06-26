@@ -29,7 +29,6 @@ title: Btrue
     <h2>Design Process</h2>
     <p>Given a tight timeline I started with discovery. Through discussions with the stakeholders, I then translated the ideas and concepts provided by the stakeholders into sketchs.</p>
     <p>The sketches provided a helpful starting point and once gaining buy-in I quickly moved on to low-fidelity wireframes using Wires by Quirktools</p>
-    <img src="/assets/img/portfolio/placeholder.png" alt="">
     <img src="/assets/img/portfolio/btrue-wireframes/btrue-wireframe1.jpg" alt="">
     <p class="picture-caption"><strong>Selected sketches and wireframes</strong> from the early phase of the project</p>
   </section>
