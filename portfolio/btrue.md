@@ -1,18 +1,18 @@
 ---
 layout: portfolio
-title: Acell
+title: Btrue
 ---
 <div class="portfolio-item">
   <section>
   {% include portfolio-header.html %}
-    <img src="/assets/img/portfolio/acell-ipad.png" alt="" class="thumb">
-    <h1>Acell</h1>
-    <p>Acell provides doctors and their patients leading-edge healing treatments with their innovative regenerative medical technology. Their sales team was looking for an easier way to engage with doctors, so an iPad App was created to manage the end-to-end relationship from lead to order.</p>
+    <img src="/assets/img/portfolio/btrue-ipad.png" alt="" class="thumb">
+    <h1>Btrue</h1>
+    <p>Btrue provides doctors and their patients leading-edge healing treatments with their innovative medical technology. Their sales team was looking for an easier way to engage with doctors, so an iPad App was created to manage the end-to-end relationship from lead to order.</p>
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
         <p>This project began in 2013, which was only a few years after the iPad was released. This provided a fresh canvas for new interaction patterns and designs, but a bit challenging since there were not many conventions.</p>
-        <p>Some of the project goals were fairly ambitious, such as a digital signature input</p>
+        <p>Some of the project goals were fairly ambitious, such as a digital signature input, full CRM and scheduling, and inventory management.</p>
       </div>
       <div>
         <h3>Contributions</h3>
@@ -30,6 +30,7 @@ title: Acell
     <p>Given a tight timeline I started with discovery. Through discussions with the stakeholders, I then translated the ideas and concepts provided by the stakeholders into sketchs.</p>
     <p>The sketches provided a helpful starting point and once gaining buy-in I quickly moved on to low-fidelity wireframes using Wires by Quirktools</p>
     <img src="/assets/img/portfolio/placeholder.png" alt="">
+    <img src="/assets/img/portfolio/btrue-wireframes/btrue-wireframe1.jpg" alt="">
     <p class="picture-caption"><strong>Selected sketches and wireframes</strong> from the early phase of the project</p>
   </section>
   <section>

@@ -7,7 +7,7 @@ title: Bit & Pixel
   {% include portfolio-header.html %}
     <img src="/assets/img/portfolio/dev.png" alt="" class="thumb">
     <h1>Bit & Pixel</h1>
-    <p>In 2012 I started my own freelance company to work with start-ups and local businesses. While I have since focused more on full-time engagements, I still like to keep it around for smaller ad-hoc engagements.</p>
+    <p>I started my own freelance company to work with start-ups and local businesses. While I have since focused more on full-time engagements, I still like to keep it around for smaller engagements.</p>
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
