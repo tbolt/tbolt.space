@@ -10,3 +10,6 @@ Built using the following technologies
 * Font Awesome
 * Markdown
 * Google Fonts
+
+
+Portfolio homepage forked from [ampinsk.github.io](https://github.com/ampinsk/ampinsk.github.io)
