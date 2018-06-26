@@ -29,12 +29,16 @@ title: Btrue
     <h2>Design Process</h2>
     <p>Given a tight timeline I started with discovery. Through discussions with the stakeholders, I then translated the ideas and concepts provided by the stakeholders into sketchs.</p>
     <p>The sketches provided a helpful starting point and once gaining buy-in I quickly moved on to low-fidelity wireframes using Wires by Quirktools</p>
-    <img src="/assets/img/portfolio/btrue-wireframes/btrue-wireframe1.jpg" alt="">
-    <p class="picture-caption"><strong>Selected sketches and wireframes</strong> from the early phase of the project</p>
+    <img src="/assets/img/portfolio/btrue-wireframes/btrue-home-and-appts.jpg" alt="b true home and appointments wireframes">
+    <p class="picture-caption"><strong>Btrue wireframe</strong> of landing page and calendar/appointments</p>
+    <img src="/assets/img/portfolio/btrue-wireframes/btrue-orders.jpg" alt="b true order entry process wireframes">
+    <p class="picture-caption"><strong>Btrue wireframe</strong> for entering orders</p>
+    <img src="/assets/img/portfolio/btrue-wireframes/btrue-inventory-contacts.jpg" alt="b true contacts and inventory wireframes">
+    <p class="picture-caption"><strong>Btrue wireframe</strong> of inventory process and contacts view</p>
   </section>
   <section>
     <h2>Mockups</h2>
-    <p>While the wireframes provided a solid foundation and mapped out the IA, the overall "feel" of the app was missing. To help develop a better picture of how the app would look, I developed a high-fidelity mockup (shown above) of the sales-entry page.</p>
+    <p>While the wireframes provided a solid foundation and mapped out the IA, the overall "feel" of the app was missing. To help develop a better picture of how the app would look, I developed a high-fidelity mockup (shown at very top of page) of the sales-entry page.</p>
   </section>
   <section>
     <h2>Implementation</h2>
