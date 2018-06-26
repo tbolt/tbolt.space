@@ -1,0 +1,169 @@
+.portfolio {
+  max-width: 80%;
+  margin-top: 50px;
+}
+
+.portfolio a {
+  position: relative;
+  cursor: pointer;
+}
+
+.portfolio section {
+  margin-bottom: 30px;
+}
+
+.portfolio h1,
+.portfolio h2,
+.portfolio h3,
+.portfolio h4,
+.portfolio h5,
+.portfolio h6 {
+  margin: 0;
+}
+
+.portfolio h3,
+.portfolio h4,
+.portfolio h5 {
+  font-weight: 300;
+}
+
+@media (min-width: 1150px) {
+  .portfolio-section.portfolio__header {
+    padding: 1% 4%;
+    width: 34%;
+    margin-top: 100px;
+  }
+}
+
+.portfolio__work-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.portfolio__thumbnail {
+  margin: 2%;
+  border: 2px solid #313F4F;
+  padding: 1%;
+  -webkit-transition: 0.3s ease !important;
+  transition: 0.3s ease !important;
+}
+
+@media (min-width: 540px) {
+  .portfolio__thumbnail {
+    width: 43%;
+  }
+}
+
+@media (min-width: 700px) {
+  .portfolio__thumbnail {
+    width: 32%;
+  }
+}
+
+@media (min-width: 1150px) {
+  .portfolio__thumbnail {
+    width: 26%;
+  }
+}
+
+@media (min-width: 700px) {
+  .portfolio__thumbnail--featured {
+    width: 54%;
+  }
+}
+
+@media (min-width: 1150px) {
+  .portfolio__thumbnail--featured {
+    width: 45%;
+  }
+}
+
+.portfolio__header--logo {
+  font-size: 26px;
+  font-weight: bold;
+  color: #032122;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.portfolio__header--tag {
+  font-size: 16px;
+  color: #AAA;
+  font-weight: 300;
+  margin: 0;
+  line-height: 1.2;
+  font-family: "Space Mono", monospace;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.portfolio__header--deck {
+  margin-top: 15px;
+}
+
+.project-decription {
+  position: absolute;
+  bottom: 20px;
+  left: -10px;
+  padding: 10px;
+  border: 2px solid #032122;
+  background-color: whitesmoke;
+  color: #032122;
+  font-family: "Space Mono", monospace;
+  margin-right: 5px;
+}
+
+.project-decription--featured {
+  font-size: 12px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  bottom: 70px;
+  text-transform: uppercase;
+}
+
+.project-decription h5 {
+  font-weight: 700;
+}
+
+.project-decription h6 {
+  text-transform: none;
+  font-weight: 300;
+  letter-spacing: 0;
+  font-size: 12px;
+}
+
+.portfolio__thumbnail:hover .project-decription {
+  border-color: #777;
+}
+
+.portfolio__thumbnail:hover {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+  -webkit-transform: scale(1.03);
+      -ms-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.fearless {
+  color: #663399;
+  font-weight: bold;
+}

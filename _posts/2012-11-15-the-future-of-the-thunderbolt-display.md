@@ -30,7 +30,3 @@ Let&#8217;s see an update for the Apple Thunderbolt Display with:
   * A Couple USB 3.0 ports
 
 I also wonder if we will see more integration with iDevices, like being able to hook up an iPad to a Thunderbolt Display would be quite interesting. Plus, following with the hardware-in-a-display model, we could see more benefits of pairing the Thunderbolt display with an iPad.
-
-Anyone have a workstation with A MBA/MBP and a 27&#8243; Thunderbolt display? Send me some photos!
-
-@tbolt

@@ -3,13 +3,12 @@ tagline:  UI Design & Web Development
 author:
   twitter:  tbolt
 
-menu:
-- {name: 'About', url: 'about.html'}
-- {name: 'Contact', url: 'contact.html'}
+pages:
+- {name: 'About', url: 'about'}
+- {name: 'Contact', url: 'contact'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/tbolt'}
+- {icon: 'dribbble', link: 'https://dribbble.com/tbolt'}
 - {icon: 'twitter', link: 'https://twitter.com/tbolt'}
 - {icon: 'envelope', link: 'mailto:tybolt@gmail.com'}
-
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer

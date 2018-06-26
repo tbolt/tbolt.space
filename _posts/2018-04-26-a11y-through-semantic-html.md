@@ -4,7 +4,7 @@ title: Accessibility Through Semantic HTML
 date: 2018-04-26
 layout: post
 guid: /?p=1125
-permalink: /2018/01/12/vintage-soviet-control-rooms
+permalink: /2018/01/12/a11y-through-semantic-html
 categories:
   - Technology
 ---
@@ -16,7 +16,7 @@ Great article by Laura Kalbag on why [semantic HTML is better for usability and 
 render semantic elements with their own distinct styles and behaviours. For example, button looks and behaves differently from a. And ul is different from ol. These defaults are shortcuts to a more usable and accessible web. They provide consistent and
 well-tested components for common interactions.
 
-It's pretty common to see "div-itis." Where there's a semantic HTML element nested many layers deep in a series of divs. I'm certainly guilty of this, but i'm conscious of it and try to look for ways to improve. Developers should really start paying attention to their HTML. It's seems to be the first thing ignored.
+It's pretty common to see "div-itis." Where there's a semantic HTML element nested many layers deep in a series of <code>divs</code>. I'm certainly guilty of this, but i'm conscious of it and try to look for ways to improve. Developers should really start paying attention to their HTML. It's seems to be the first thing ignored.
 
 Also:
 > Good usability is good accessibility
