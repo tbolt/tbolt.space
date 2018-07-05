@@ -46,12 +46,12 @@ title: Portfolio
         </span>
         <img class="portfolio__thumbnail--img" src="/uploads/2018/05/trp-logo.jpg">
       </a>
-<!--       <a href="/portfolio/bchd" class="portfolio__thumbnail">
+<!--       <a href="/portfolio/yak" class="portfolio__thumbnail">
         <span class="project-decription">
-        <h5>Baltimore City Health Dept.</h5>
-        <h6>Community Health Dashboard</h6>
+        <h5>You Already Know</h5>
+        <h6>Band site</h6>
         </span>
-        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/bchd-dashboard.jpg">
+        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/yak.png">
       </a> -->
       <a href="/portfolio/bitandpixel" class="portfolio__thumbnail">
         <span class="project-decription">
