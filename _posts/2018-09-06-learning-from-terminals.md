@@ -26,8 +26,8 @@ He goes on to describe how the web spawned as a new application platform:
 >
 >Think of all the animations that an average user sits through in a day: switching between spaces in Mac OS, 1Password’s unlock, waiting for iOS to show the SpringBoard after hitting the home button, entering full screen from a Mac OS app, or switching between tabs in mobile Safari.
 
-Web technology can be really fast and efficient, but a few things get in the way
-* Developers reach for libraries and frameworks instead of writing minimal and efficient JavaScript. Typically due to naiveness, time-constraints, or apathy towards the user.
+Web technology could have really fast and efficient UIs, but a few things get in the way
+* Developers reach for libraries and frameworks instead of writing minimal plain JavaScript. Typically due to naiveness, time-constraints, or apathy towards the user.
 * Third-party libraries get added to sites without hesitation to support tracking, advertising, and analytics.
 * Designers dream up fancy animations and layouts instead of focusing on usability.
 
