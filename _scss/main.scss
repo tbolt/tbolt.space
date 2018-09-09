@@ -17,6 +17,10 @@ body {
 }
 
 @media (max-width: 30em) {
+  main {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
   body {
     font-size: 14px;
     line-height: 1.5rem;
