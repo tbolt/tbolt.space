@@ -105,18 +105,16 @@
 }
 
 .portfolio__header--tag {
-  font-size: 16px;
-  color: #AAA;
+  font-size: 18px;
   font-weight: 300;
   margin: 0;
   line-height: 1.2;
-  font-family: "Space Mono", monospace;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding-top: 10px;
 }
 
-.portfolio__header--deck {
-  margin-top: 15px;
+h4.portfolio__header--company {
+  font-size: 18px;
+  margin-bottom: 10px;
 }
 
 .project-decription {
@@ -127,7 +125,7 @@
   border: 2px solid #032122;
   background-color: whitesmoke;
   color: #032122;
-  font-family: "Space Mono", monospace;
+  font-size: 17px;
   margin-right: 5px;
 }
 
@@ -148,7 +146,7 @@
   text-transform: none;
   font-weight: 300;
   letter-spacing: 0;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .portfolio__thumbnail:hover .project-decription {
