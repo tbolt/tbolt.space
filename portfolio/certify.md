@@ -18,10 +18,10 @@ title: Small Business Administration Certify
         <h3>Contributions</h3>
         <ul>
           <li>Personas</li>
-          <li>User research & testing</li>
+          <li>User Research & Testing</li>
           <li>Wireframes</li>
           <li>Prototypes</li>
-          <li>UI design</li>
+          <li>UI Design</li>
           <li>Accessibility/508 Compliance</li>
           <li>Rails & Javascript Development</li>
         </ul>

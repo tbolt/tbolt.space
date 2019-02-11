@@ -17,10 +17,9 @@ title: Template
         <h3>Responsibilities</h3>
         <ul>
           <li>Prototyping</li>
-          <li>Emerging tech research</li>
-          <li>Market analysis</li>
-          <li>User research & testing</li>
-          <li>Solutioning workshops</li>
+          <li>Emerging Technology Research</li>
+          <li>User Research & Testing</li>
+          <li>Solutioning Workshops</li>
         </ul>
       </div>
     </div>

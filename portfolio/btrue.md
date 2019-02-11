@@ -7,6 +7,7 @@ title: Btrue
   {% include portfolio-header.html %}
     <img src="/assets/img/portfolio/btrue-ipad.png" alt="" class="thumb">
     <h1>Btrue</h1>
+    <p>Note: Btrue is an alias name</p>
     <p>Btrue provides doctors and their patients leading-edge healing treatments with their innovative medical technology. Their sales team was looking for an easier way to engage with doctors, so an iPad App was created to manage the end-to-end relationship from lead to order.</p>
     <div class="challenges">
       <div class="column--heavy">
@@ -19,8 +20,8 @@ title: Btrue
         <ul>
           <li>Prototypes</li>
           <li>Wireframes</li>
-          <li>UI design</li>
-          <li>Front-end development</li>
+          <li>UI Design</li>
+          <li>Front-end Development</li>
         </ul>
       </div>
     </div>

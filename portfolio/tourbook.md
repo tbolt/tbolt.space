@@ -33,6 +33,6 @@ title: Tourbook
     <p>When I started the project in 2015 I wanted to keep it focused on some core concepts and get it out the door as quick as possible. As with many side projects though, I got side-tracked and have yet to complete development. I would like to pick it up soon, but there are a few other prorities at the moment, so don't count on it any time soon.</p>
     <p>The project is now open source and available on <a href="https://github.com/tbolt/tourbook-app">github</a>. If you are interested in picking it up, let me know, or just PR/fork it. 👍 </p>
     <img src="/assets/img/portfolio/tourbook-splash.jpg" alt="">
-    <p class="picture-caption"><strong>Tourbook iOS app icon</strong> final version</p>
+    <p class="picture-caption"><strong>Tourbook iOS app icon</strong></p>
   </section>
 </div>
