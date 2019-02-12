@@ -1,14 +1,14 @@
 /* Base */
 .header-stripe {
   height: 3px;
-  background-color: #458b56;
+  background-color: #129b62;
   width: 100%;
 }
 body {
   font-family: monospace;
   font-size: 16px;
   background-color: whitesmoke;
-  color: #313F4F;
+  color: #333;
   line-height: 1.5rem;
   margin: 0;
 }
@@ -42,11 +42,11 @@ h1 {
 
 h1 a {
   text-decoration: none;
-  color: #313F4F;
+  color: #333;
 }
 
 a {
-  color: #458b56; /* orange */
+  color: #129b62; /* orange */
   text-decoration: none;
 }
 
@@ -87,13 +87,13 @@ header {
   padding-bottom: 0.5rem;
 }
 .masthead-title a {
-  color: #313F4F;
+  color: #333;
   font-size: 2rem;
   float: left;
   margin-right: 1rem;
 }
 .masthead-subtitle a {
-  color: #458b56;
+  color: #129b62;
   font-weight: 400;
   font-size: 1em;
 }
@@ -162,7 +162,7 @@ header {
 }
 
 .pagination-active {
-  color: #313F4F;
+  color: #333;
 }
 
 .pagination-active:hover {
@@ -181,7 +181,7 @@ footer a {
   text-decoration: none;
 }
 footer a:hover {
-  color: #313F4F;
+  color: #333;
 }
 
 /* Menu */
@@ -272,7 +272,7 @@ pre > code {
 }
 
 .fa-envelope:hover {
-  color: #458b56;
+  color: #129b62;
 }
 .fa-twitter:hover {
   color: #00aced;
