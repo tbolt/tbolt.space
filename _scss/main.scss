@@ -1,6 +1,6 @@
 /* Base */
 .header-stripe {
-  height: 3px;
+  height: 6px;
   background-color: #129b62;
   width: 100%;
 }
@@ -36,8 +36,7 @@ body {
 }
 
 h1 {
-  font-size: 1.5rem;
-  font-weight: 600;
+  line-height: 2rem;
 }
 
 h1 a {
@@ -88,7 +87,7 @@ header {
 }
 .masthead-title a {
   color: #333;
-  font-size: 2rem;
+  font-size: 2.5rem;
   float: left;
   margin-right: 1rem;
 }
