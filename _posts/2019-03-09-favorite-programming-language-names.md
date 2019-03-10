@@ -20,7 +20,7 @@ Honorable mentions: `C` `Ruby` `ColdFusion` `Simula` `AWK`
 A great name for a programming language, and easily my favorite. The subtle hint that this is intended to be a systems language and "closer to the metal" is just perfect.
 
 ## Ada
-The name Ada stands up on it's own. Being named after the first computer programmer just icing on top.
+The name Ada stands up on it's own. Being named after the first computer programmer is just icing on top.
 
 ## Lua
 What does Lua mean? Don't know, but I like it.
