@@ -28,3 +28,4 @@ What does Lua mean? Don't know, but I like it.
 ## Swift
 I haven't used Swift enough to know if it's a truly swift programming language, but the name checks out.
 
+Update: [Lua means “moon” in Portuguese.](https://lobste.rs/s/v5djol/favorite_programming_language_names#c_j8esrn)
