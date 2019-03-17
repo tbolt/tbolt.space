@@ -2,7 +2,7 @@
 id: 1084
 title: When Bad Design Kills
 date: 2016-06-23T21:32:24+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1084
 permalink: /2016/06/23/when-bad-design-kills/

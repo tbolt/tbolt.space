@@ -2,7 +2,7 @@
 id: 924
 title: Helvetica Neue in OS X
 date: 2014-07-16T23:09:36+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=924
 permalink: /2014/07/16/helvetica-neue-in-os-x/

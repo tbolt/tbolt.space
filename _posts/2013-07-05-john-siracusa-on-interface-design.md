@@ -2,7 +2,7 @@
 id: 768
 title: John Siracusa on Interface Design
 date: 2013-07-05T13:17:41+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=768
 permalink: /2013/07/05/john-siracusa-on-interface-design/

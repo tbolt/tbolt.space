@@ -2,7 +2,7 @@
 id: 658
 title: Instagram and The Blogosphere
 date: 2012-12-19T11:27:38+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=658
 permalink: /2012/12/19/instagram-and-the-blogosphere/

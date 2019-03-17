@@ -2,7 +2,7 @@
 id: 1040
 title: Light Stopped for 1 Minute
 date: 2015-09-03T18:53:19+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1040
 permalink: /2015/09/03/light-stopped-for-1-minute/

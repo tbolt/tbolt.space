@@ -2,7 +2,7 @@
 id: 1118
 title: Worst Operating System Feature
 date: 2017-05-11T15:38:34+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1118
 permalink: /2017/05/11/worst-operating-system-feature/

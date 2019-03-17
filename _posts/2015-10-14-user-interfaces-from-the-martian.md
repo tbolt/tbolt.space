@@ -2,7 +2,7 @@
 id: 1048
 title: 'User Interface&#8217;s From The Martian'
 date: 2015-10-14T20:51:07+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1048
 permalink: /2015/10/14/user-interfaces-from-the-martian/

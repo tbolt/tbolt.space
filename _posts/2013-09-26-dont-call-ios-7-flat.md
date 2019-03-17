@@ -2,7 +2,7 @@
 id: 815
 title: 'Don&#8217;t Call iOS 7 Flat'
 date: 2013-09-26T09:49:26+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=815
 permalink: /2013/09/26/dont-call-ios-7-flat/

@@ -2,7 +2,7 @@
 id: 1001
 title: Tim Cook on Privacy
 date: 2015-06-05T10:38:32+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1001
 permalink: /2015/06/05/tim-cook-on-privacy/

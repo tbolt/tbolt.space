@@ -2,7 +2,7 @@
 id: 846
 title: Favorite Steve Jobs Quote
 date: 2014-01-20T13:15:40+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=846
 permalink: /2014/01/20/favorite-steve-jobs-quote/

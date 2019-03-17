@@ -2,7 +2,7 @@
 id: 959
 title: The Human Side of Automation
 date: 2014-12-30T10:03:51+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=959
 permalink: /2014/12/30/the-human-side-of-automation/

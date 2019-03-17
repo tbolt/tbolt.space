@@ -2,7 +2,7 @@
 id: 905
 title: On Using Tools
 date: 2014-06-01T14:02:43+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=905
 permalink: /2014/06/01/on-using-tools/

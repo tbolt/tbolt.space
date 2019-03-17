@@ -2,7 +2,7 @@
 id: 884
 title: Information Architecture Analogy
 date: 2014-05-01T23:10:25+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=884
 permalink: /2014/05/01/information-architecture-analogy/

@@ -2,7 +2,7 @@
 id: 822
 title: Edward Tufte on Windows Phone
 date: 2013-10-14T15:51:28+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=822
 permalink: /2013/10/14/edward-tufte-on-windows-phone/

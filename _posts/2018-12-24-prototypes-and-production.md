@@ -2,7 +2,7 @@
 id: 1130
 title: Prototypes and Production
 date: 2018-12-24T16:17:46-05:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1130
 permalink: /2018/12/24/prototypes-and-production

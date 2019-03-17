@@ -2,7 +2,7 @@
 id: 1094
 title: 'Microsoft&#8217;s Google Docs Competitor'
 date: 2016-10-25T18:53:27+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1094
 permalink: /2016/10/25/microsofts-google-docs-competitor/

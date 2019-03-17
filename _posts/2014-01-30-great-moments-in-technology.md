@@ -2,7 +2,7 @@
 id: 849
 title: Great Moments in Technology
 date: 2014-01-30T20:59:48+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=849
 permalink: /2014/01/30/great-moments-in-technology/

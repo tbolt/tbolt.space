@@ -2,7 +2,7 @@
 id: 831
 title: The Future of ReiserFS
 date: 2013-12-03T23:14:14+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=831
 permalink: /2013/12/03/the-future-of-reiserfs/

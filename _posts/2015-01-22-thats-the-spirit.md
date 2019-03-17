@@ -2,7 +2,7 @@
 id: 962
 title: 'That&#8217;s The Spirit'
 date: 2015-01-22T21:31:59+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=962
 permalink: /2015/01/22/thats-the-spirit/

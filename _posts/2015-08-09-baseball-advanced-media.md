@@ -2,7 +2,7 @@
 id: 1026
 title: Baseball Advanced Media
 date: 2015-08-09T10:10:26+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1026
 permalink: /2015/08/09/baseball-advanced-media/

@@ -2,7 +2,7 @@
 id: 670
 title: Simple Adds New Security Features
 date: 2013-01-29T17:42:49+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=670
 permalink: /2013/01/29/simple-adds-new-security-features/

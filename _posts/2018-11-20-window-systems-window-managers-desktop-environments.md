@@ -2,7 +2,7 @@
 id: 1129
 title: Window Systems, Window Managers, Desktop Environments
 date: 2018-11-20T13:23:01-05:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1129
 permalink: /2018/11/20/window-systems-window-managers-desktop-environments

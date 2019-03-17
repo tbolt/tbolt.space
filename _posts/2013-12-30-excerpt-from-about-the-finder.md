@@ -2,7 +2,7 @@
 id: 828
 title: 'Excerpt From &#8220;About The Finder&#8230;&#8221;'
 date: 2013-12-30T08:56:49+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=828
 permalink: /2013/12/30/excerpt-from-about-the-finder/

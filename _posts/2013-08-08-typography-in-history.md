@@ -2,7 +2,7 @@
 id: 795
 title: Typography in History
 date: 2013-08-08T12:58:04+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=795
 permalink: /2013/08/08/typography-in-history/

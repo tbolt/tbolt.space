@@ -2,7 +2,7 @@
 id: 1006
 title: Testing Critical Software
 date: 2015-06-16T20:59:53+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1006
 permalink: /2015/06/16/testing-critical-software/

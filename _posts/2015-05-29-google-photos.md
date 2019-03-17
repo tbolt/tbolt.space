@@ -2,7 +2,7 @@
 id: 988
 title: Google Photos
 date: 2015-05-29T14:55:33+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=988
 permalink: /2015/05/29/google-photos/

@@ -2,7 +2,7 @@
 id: 864
 title: Shiftgate
 date: 2014-03-26T00:23:58+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=864
 permalink: /2014/03/26/shiftgate/

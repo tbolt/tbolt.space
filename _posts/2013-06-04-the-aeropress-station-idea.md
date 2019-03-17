@@ -2,7 +2,7 @@
 id: 741
 title: The Aeropress Station Idea
 date: 2013-06-04T00:14:51+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=741
 permalink: /2013/06/04/the-aeropress-station-idea/

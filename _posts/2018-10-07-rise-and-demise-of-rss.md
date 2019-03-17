@@ -2,7 +2,7 @@
 id: 1128
 title: The Rise and Demise of RSS
 date: 2018-10-07T14:16:22-04:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1128
 permalink: /2018/10/7/rise-and-demise-of-rss

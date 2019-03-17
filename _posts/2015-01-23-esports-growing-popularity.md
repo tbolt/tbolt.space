@@ -2,7 +2,7 @@
 id: 958
 title: Esports Growing Popularity
 date: 2015-01-23T08:44:40+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=958
 permalink: /2015/01/23/esports-growing-popularity/

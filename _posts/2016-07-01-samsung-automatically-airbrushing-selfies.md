@@ -2,7 +2,7 @@
 id: 1090
 title: Samsung Automatically Airbrushing Selfies
 date: 2016-07-01T20:01:10+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1090
 permalink: /2016/07/01/samsung-automatically-airbrushing-selfies/

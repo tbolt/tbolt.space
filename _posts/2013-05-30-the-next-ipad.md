@@ -2,7 +2,7 @@
 id: 733
 title: The Next iPad
 date: 2013-05-30T13:35:23+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=733
 permalink: /2013/05/30/the-next-ipad/

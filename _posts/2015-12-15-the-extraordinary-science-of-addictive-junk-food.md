@@ -2,7 +2,7 @@
 id: 1063
 title: The Extraordinary Science of Addictive Junk Food
 date: 2015-12-15T16:17:05+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1063
 permalink: /2015/12/15/the-extraordinary-science-of-addictive-junk-food/

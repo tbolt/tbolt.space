@@ -2,7 +2,7 @@
 id: 995
 title: 'Material Design&#8217;s Floating Action Button'
 date: 2015-06-03T20:38:26+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=995
 permalink: /2015/06/03/material-designs-floating-action-button/

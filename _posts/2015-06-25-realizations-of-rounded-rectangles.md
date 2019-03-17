@@ -2,7 +2,7 @@
 id: 1013
 title: Realizations of Rounded Rectangles
 date: 2015-06-25T20:47:00+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1013
 permalink: /2015/06/25/realizations-of-rounded-rectangles/

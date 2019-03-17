@@ -2,7 +2,7 @@
 id: 1022
 title: Minimalism in Web Design
 date: 2015-07-01T10:59:16+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1022
 permalink: /2015/07/01/minimalism-in-web-design/

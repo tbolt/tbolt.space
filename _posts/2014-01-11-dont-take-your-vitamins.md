@@ -2,7 +2,7 @@
 id: 842
 title: 'Don&#8217;t Take Your Vitamins'
 date: 2014-01-11T09:55:34+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=842
 permalink: /2014/01/11/dont-take-your-vitamins/

@@ -2,7 +2,7 @@
 id: 648
 title: Late 2012 iMac thoughts
 date: 2012-12-02T14:00:38+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=648
 permalink: /2012/12/02/late-2012-imac-thoughts/

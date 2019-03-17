@@ -2,7 +2,7 @@
 id: 1067
 title: Orthoprint, or How I Open-Sourced My Face
 date: 2016-03-13T20:53:14+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1067
 permalink: /2016/03/13/orthoprint-or-how-i-open-sourced-my-face/

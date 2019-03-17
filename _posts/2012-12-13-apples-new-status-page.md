@@ -2,7 +2,7 @@
 id: 654
 title: 'Apple&#8217;s New Status Page'
 date: 2012-12-13T17:21:51+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=654
 permalink: /2012/12/13/apples-new-status-page/

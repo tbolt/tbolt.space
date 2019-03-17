@@ -2,7 +2,7 @@
 id: 902
 title: Product Bloat
 date: 2014-05-27T11:56:39+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=902
 permalink: /2014/05/27/product-bloat/

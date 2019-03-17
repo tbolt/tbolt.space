@@ -2,7 +2,7 @@
 id: 1027
 title: The World Wide Advertising Web
 date: 2015-08-08T08:34:18+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1027
 permalink: /2015/08/08/the-world-wide-advertising-web/

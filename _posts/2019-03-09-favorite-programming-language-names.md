@@ -2,7 +2,7 @@
 id: 1131
 title: Favorite Programming Language Names
 date: 2019-03-09T10:47:14-05:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1131
 permalink: /2019/3/9/favorite-programming-language-names

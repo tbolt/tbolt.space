@@ -2,7 +2,7 @@
 id: 982
 title: Google Knows Water
 date: 2015-04-19T19:12:23+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=982
 permalink: /2015/04/19/google-knows-water/

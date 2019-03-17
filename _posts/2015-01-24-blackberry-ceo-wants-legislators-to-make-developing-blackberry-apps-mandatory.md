@@ -2,7 +2,7 @@
 id: 969
 title: BlackBerry CEO Wants Legislators To Make Developing BlackBerry Apps Mandatory
 date: 2015-01-24T13:42:35+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=969
 permalink: /2015/01/24/blackberry-ceo-wants-legislators-to-make-developing-blackberry-apps-mandatory/

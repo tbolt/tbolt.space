@@ -2,7 +2,7 @@
 id: 861
 title: Be Careful What You Geotag
 date: 2014-03-23T10:40:10+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=861
 permalink: /2014/03/23/be-careful-what-you-geotag/

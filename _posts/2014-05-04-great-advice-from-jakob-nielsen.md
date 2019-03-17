@@ -2,7 +2,7 @@
 id: 886
 title: Great Advice from Jakob Nielsen
 date: 2014-05-04T12:43:20+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=886
 permalink: /2014/05/04/great-advice-from-jakob-nielsen/

@@ -2,7 +2,7 @@
 id: 734
 title: Flat Design
 date: 2013-05-29T18:16:37+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=734
 permalink: /2013/05/29/flat-design/

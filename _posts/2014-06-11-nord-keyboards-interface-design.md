@@ -2,7 +2,7 @@
 id: 912
 title: Nord Keyboards Interface Design
 date: 2014-06-11T19:03:09+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=912
 permalink: /2014/06/11/nord-keyboards-interface-design/

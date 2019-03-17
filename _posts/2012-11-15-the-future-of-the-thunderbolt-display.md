@@ -2,7 +2,7 @@
 id: 570
 title: The Future of The Thunderbolt Display
 date: 2012-11-15T00:46:13+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=570
 permalink: /2012/11/15/the-future-of-the-thunderbolt-display/

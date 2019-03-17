@@ -2,7 +2,7 @@
 id: 1121
 title: America's Gladiator Sport
 date: 2017-09-07T20:11:34+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=1121
 permalink: /2017/09/07/americas-gladiator-sport

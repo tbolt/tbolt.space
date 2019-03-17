@@ -2,7 +2,7 @@
 id: 698
 title: Yahoo and Dropbox
 date: 2013-04-02T13:48:50+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=698
 permalink: /2013/04/02/yahoo-and-dropbox/

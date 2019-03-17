@@ -2,7 +2,7 @@
 id: 771
 title: A Neat Apple TV Feature
 date: 2013-07-08T22:40:52+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=771
 permalink: /2013/07/08/a-neat-apple-tv-feature/

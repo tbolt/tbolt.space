@@ -2,7 +2,7 @@
 id: 720
 title: Netflix Domination
 date: 2013-05-10T09:05:51+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=720
 permalink: /2013/05/10/netflix-domination/

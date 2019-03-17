@@ -2,7 +2,7 @@
 id: 715
 title: John McAfee is More Interesting Than You
 date: 2013-05-09T19:03:43+00:00
-author: Tyler Bolchoz
+author: Tbolt
 layout: post
 guid: /?p=715
 permalink: /2013/05/09/john-mcafee-is-more-interesting-than-you/
