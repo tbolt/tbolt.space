@@ -1,16 +1,16 @@
---- 
-id: 1132 
-title: Dealers of Lightning 
-date: 2019-05-20T09:02:52-04:00 
-author: Tyler Bolchoz 
-layout: post 
-guid: /?p=1132 
-permalink: /2019/5/20/dealers-of-lightning.md 
-categories: 
-  - Technology 
---- 
+---
+id: 1132
+title: Dealers of Lightning
+date: 2019-05-20T09:02:52-04:00
+author: Tyler Bolchoz
+layout: post
+guid: /?p=1132
+permalink: /2019/5/20/dealers-of-lightning.md
+categories:
+  - Technology
+---
 
-[Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](https://amzn.to/2VPO21B) is a good read on the historical signifigance PARC played in the history of computing. The book is almost twenty years old, but it still offers great insight. One bit that stood out to me was this exerpt:
+[Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](https://amzn.to/2VPO21B) is a good read on the signifigance PARC played in the history of computing. The book is twenty years old now, but it still offers great insight. One bit that stood out to me was this exerpt:
 
 > Their first step was to do something PARC had never tried before: They analyzed how non-engineers would actually use a computer.
 >
