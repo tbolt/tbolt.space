@@ -10,7 +10,7 @@ categories:
   - Technology
 ---
 
-[Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](https://amzn.to/2VPO21B) is a good read on the signifigance PARC played in the history of computing. The book is twenty years old now, but it still offers great insight. One bit that stood out to me was this exerpt:
+[Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](https://amzn.to/2VPO21B) is a good read on the significance PARC played in the history of computing. The book is twenty years old now, but it still offers great insight. One bit that stood out to me was this excerpt:
 
 > Their first step was to do something PARC had never tried before: They analyzed how non-engineers would actually use a computer.
 >
