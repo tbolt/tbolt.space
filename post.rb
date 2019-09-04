@@ -8,7 +8,7 @@ def file_template(id, title, slug)
   header += "id: #{id} \n"
   header += "title: #{title} \n"
   header += "date: #{Time.now.to_datetime.rfc3339} \n"
-  header += "author: Tyler Bolchoz \n"
+  header += "author: Tbolt \n"
   header += "layout: post \n"
   header += "guid: /?p=#{id} \n"
   header += "permalink: /#{date.year}/#{date.month}/#{date.day}/#{slug} \n"
