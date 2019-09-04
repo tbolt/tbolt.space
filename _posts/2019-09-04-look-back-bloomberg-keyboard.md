@@ -1,6 +1,6 @@
 --- 
 id: 1133 
-title: A look back: The Bloomberg Keyboard 
+title: The Bloomberg Keyboard 
 date: 2019-09-04T12:37:09-04:00 
 author: Tbolt
 layout: post 
