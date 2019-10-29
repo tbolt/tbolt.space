@@ -7,11 +7,11 @@ title: Small Business Administration HUBZone Map
   {% include portfolio-header.html %}
     <img src="/assets/img/portfolio/hubzone-mockup.png" alt="" class="thumb">
     <h1>HUBZone Map</h1>
-    <p>The Historically Underutilized Business Zones (HUBZone) program, offered by the Small Business Administration, helps small businesses in low-income areas gain access to federal contracting opportunities. A company’s HUBZone certification is dependent on several key factors mostly concerning where a company and it's employees are located. The HUBZone Map provides an easy way to determine if your home or office are in qualified zones. We modernized the map to make it easier for small-business owners to use.</p>
+    <p>The Historically Underutilized Business Zones (HUBZone) program, offered by the Small Business Administration, helps small businesses in low-income areas gain access to federal contracting opportunities. A company’s HUBZone certification is dependent on several key factors mostly concerning where a company and it's employees are located. The HUBZone Map provides an easy way to determine if a home or office is in a qualified zone. This project modernized the map to make it easier for small-business owners to use.</p>
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
-        <p>The expectations for mapping applications are extremely high given consumer products such as Google Maps. Creating an experience for HUBZone participants and potential participants, we wanted to match these expectations.</p>
+        <p>The expectations for mapping applications are extremely high given consumer products like Google Maps. Creating an experience for HUBZone participants and potential participants, we wanted to match these expectations.</p>
         <p>Fortunately, through user research and testing we were able to arrive at an experience that was easy and effective to use.</p>
       </div>
       <div>

@@ -8,12 +8,12 @@ title: Btrue
     <img src="/assets/img/portfolio/btrue-ipad.png" alt="" class="thumb">
     <h1>Btrue</h1>
     <p>Note: Btrue is an alias name</p>
-    <p>Btrue provides doctors and their patients leading-edge healing treatments with their innovative medical technology. Their sales team was looking for an easier way to engage with doctors, so an iPad App was created to manage the end-to-end relationship from lead to order.</p>
+    <p>Btrue provides doctors and their patients leading-edge healing treatments with their innovative biomedical technology. Their sales team was looking for an easier way to engage with doctors, so an iPad App was created to manage the end-to-end relationship from lead to order.</p>
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
         <p>This project began in 2013, which was only a few years after the iPad was released. This provided a fresh canvas for new interaction patterns and designs, but a bit challenging since there were not many conventions.</p>
-        <p>Some of the project goals were fairly ambitious, such as a digital signature input, full CRM and scheduling, and inventory management.</p>
+        <p>Some of the project goals were fairly ambitious, such as a digital signature input, full CRM with scheduling, and inventory management.</p>
       </div>
       <div>
         <h3>Contributions</h3>
@@ -28,8 +28,8 @@ title: Btrue
   </section>
   <section>
     <h2>Design Process</h2>
-    <p>Given a tight timeline I started with discovery. Through discussions with the stakeholders, I then translated the ideas and concepts provided by the stakeholders into sketchs.</p>
-    <p>The sketches provided a helpful starting point and once gaining buy-in I quickly moved on to low-fidelity wireframes using Wires by Quirktools</p>
+    <p>Given a tight timeline I started with discovery. Through discussions with the stakeholders, I then translated the ideas and concepts provided by the stakeholders into rough sketches.</p>
+    <p>The sketches provided a helpful starting point and upon gaining buy-in I quickly moved on to low-fidelity wireframes using Wires by Quirktools</p>
     <img src="/assets/img/portfolio/btrue-wireframes/btrue-home-and-appts.jpg" alt="b true home and appointments wireframes">
     <p class="picture-caption"><strong>Btrue wireframe</strong> of landing page and calendar/appointments</p>
     <img src="/assets/img/portfolio/btrue-wireframes/btrue-orders.jpg" alt="b true order entry process wireframes">
@@ -43,6 +43,6 @@ title: Btrue
   </section>
   <section>
     <h2>Implementation</h2>
-    <p>To help speed up development, I took on some of the front-end UI work. More specifically I focused on bringing the designs to life with HTML/css.</p>
+    <p>To help speed up development, I took on some of the front-end UI work where I developed view templates for app.</p>
   </section>
 </div>

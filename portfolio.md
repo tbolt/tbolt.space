@@ -9,7 +9,6 @@ title: Portfolio
         <h1 class="portfolio__header--logo"><a href="/">Ty Bolchoz</a></h1>
         <h1 class="portfolio__header--tag">Product Designer</h1>
         <h4 class="portfolio__header--company">@ <a class="fearless" href="https://fearless.tech">Fearless</a></h4>
-        <!-- <h4 class="portfolio__header--deck">Using human-centered design and design thinking I solve problems in a functional but aesthetic manner.</h4> -->
       </section>
       <a href="/portfolio/hubzone" class="portfolio__thumbnail portfolio__thumbnail--featured">
         <span class="project-decription">
@@ -38,27 +37,6 @@ title: Portfolio
         <h6>iPad Sales-entry App</h6>
         </span>
         <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/btrue-ipad.png">
-      </a>
-      <a href="/portfolio/troweprice" class="portfolio__thumbnail">
-        <span class="project-decription">
-        <h5>T. Rowe Price</h5>
-        <h6>Solutions Analyst</h6>
-        </span>
-        <img class="portfolio__thumbnail--img" src="/uploads/2018/05/trp-logo.jpg">
-      </a>
-<!--       <a href="/portfolio/yak" class="portfolio__thumbnail">
-        <span class="project-decription">
-        <h5>You Already Know</h5>
-        <h6>Band site</h6>
-        </span>
-        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/yak.png">
-      </a> -->
-      <a href="/portfolio/bitandpixel" class="portfolio__thumbnail">
-        <span class="project-decription">
-        <h5>Bit & Pixel</h5>
-        <h6>Freelance Web Design and Development</h6>
-        </span>
-        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/dev.png">
       </a>
     </div>
   </section>
