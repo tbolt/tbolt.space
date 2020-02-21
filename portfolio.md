@@ -15,28 +15,28 @@ title: Portfolio
         <h5>Small Business Administration</h5>
         <h6>HUBZone Map Redesign</h6>
         </span>
-        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/hubzone-map.jpg">
+        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/hubzone-map.jpg" alt="HUBZone map screenshot">
       </a>
       <a href="/portfolio/tourbook" class="portfolio__thumbnail">
         <span class="project-decription">
         <h5>Tourbook</h5>
         <h6>App to Log Concerts</h6>
         </span>
-        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/tourbook-presentation.png">
+        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/tourbook-presentation.png" alt="Tourbook iOS App Screenshots">
       </a>
       <a href="/portfolio/certify" class="portfolio__thumbnail">
         <span class="project-decription">
         <h5>Small Business Administration</h5>
         <h6>certify.SBA.gov Platform</h6>
         </span>
-        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/certify.png">
+        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/certify.png" alt="certify.SBA.gov website Screenshot">
       </a>
       <a href="/portfolio/btrue" class="portfolio__thumbnail">
         <span class="project-decription">
         <h5>Btrue</h5>
         <h6>iPad Sales-entry App</h6>
         </span>
-        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/btrue-ipad.png">
+        <img class="portfolio__thumbnail--img" src="/assets/img/portfolio/btrue-ipad.png" alt="iOS App Design">
       </a>
     </div>
   </section>
