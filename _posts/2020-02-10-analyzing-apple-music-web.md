@@ -1,6 +1,6 @@
 --- 
 id: 1134 
-title: Apple Music on the web
+title: Apple Music on the Web
 date: 2020-02-10T12:26:56-05:00 
 author: Tbolt 
 layout: post 
