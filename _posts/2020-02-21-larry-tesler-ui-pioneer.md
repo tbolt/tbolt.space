@@ -1,6 +1,6 @@
 --- 
 id: 1135 
-title: Lawrry Tesler, UI Pioneer, Dies at 74 
+title: Larry Tesler, UI Pioneer, Dies at 74 
 date: 2020-02-21T10:32:41-05:00 
 author: Tbolt 
 layout: post 
@@ -18,4 +18,4 @@ and
 
 > In addition to helping develop the Lisa and Macintosh, Mr. Tesler founded and ran Apple’s Advanced Technology Group, after which he led the design of the Newton hand-held computer, although that proved unsuccessful. The group also created much of the technology that would become the Wi-Fi wireless standard, and Mr. Tesler led an Apple joint venture with two other companies that created Acorn RISC Machine, a partnership intended to provide a microprocessor for the Newton.
 
-Truly an icon of computing history.
+Truly an icon in computing history.
