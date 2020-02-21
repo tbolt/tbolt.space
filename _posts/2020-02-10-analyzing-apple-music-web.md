@@ -1,6 +1,6 @@
 --- 
 id: 1134 
-title: Analyzing beta.music.apple.com 
+title: Apple Music on the web
 date: 2020-02-10T12:26:56-05:00 
 author: Tbolt 
 layout: post 
@@ -10,7 +10,7 @@ categories:
   - Technology 
 --- 
 
-A few months ago Apple opened up [Apple Music](https://beta.music.apple.com) on the web as a beta. I spent a few minutes poking around in dev tools and found some neat things about it. Keep in mind it's still in beta, so it's subject to change.
+A few months ago Apple opened up [beta.music.apple.com](https://beta.music.apple.com) on the web as a beta. I spent a few minutes poking around in dev tools and found some neat things about it. Keep in mind it's still in beta, so it's subject to change.
 
 * [Ember.js](https://emberjs.com) - Interesting to see Apple us this as it's not currently fashionable in the way React/Vue are. Good for them.
 * SF Pro Icons - Seeing a few font files come down in `/fonts/SF-Pro-Icons/v1/`. I assume these contain [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/).
