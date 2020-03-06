@@ -297,3 +297,18 @@ canvas {
 #articles {
   margin-top: 2rem;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111;
+    color: whitesmoke;
+  }
+  h1,
+  h1 a, 
+  .masthead-title a {
+    color: whitesmoke;
+  }
+  code {
+    color: #111;
+  }
+}
