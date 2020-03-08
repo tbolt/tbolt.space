@@ -5,7 +5,7 @@ title: Btrue
 <div class="portfolio-item">
   <section>
   {% include portfolio-header.html %}
-    <img src="/assets/img/portfolio/btrue-ipad.png" alt="" class="thumb">
+    <img src="/assets/img/portfolio/btrue-ipad.png" alt="UI Design Mockups on an iPad showing an order screen with data entry items" class="thumb">
     <h1>Btrue</h1>
     <p>Note: Btrue is an alias name</p>
     <p>Btrue provides doctors and their patients leading-edge healing treatments with their innovative biomedical technology. Their sales team was looking for an easier way to engage with doctors, so an iPad App was created to manage the end-to-end relationship from lead to order.</p>
@@ -28,8 +28,8 @@ title: Btrue
   </section>
   <section>
     <h2>Design Process</h2>
-    <p>Given a tight timeline I started with discovery. Through discussions with the stakeholders, I then translated the ideas and concepts provided by the stakeholders into rough sketches.</p>
-    <p>The sketches provided a helpful starting point and upon gaining buy-in I quickly moved on to low-fidelity wireframes using Wires by Quirktools</p>
+    <p>Given a tight timeline I started with discovery. Through discussions with the stakeholders I was able to sketch out ideas and concepts of key components of the app.</p>
+    <p>The sketches provided a helpful starting point and upon gaining buy-in I quickly moved on to low-fidelity wireframes.</p>
     <img src="/assets/img/portfolio/btrue-wireframes/btrue-home-and-appts.jpg" alt="b true home and appointments wireframes">
     <p class="picture-caption"><strong>Btrue wireframe</strong> of landing page and calendar/appointments</p>
     <img src="/assets/img/portfolio/btrue-wireframes/btrue-orders.jpg" alt="b true order entry process wireframes">

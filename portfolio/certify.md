@@ -5,7 +5,7 @@ title: Small Business Administration Certify
 <div class="portfolio-item">
   <section>
   {% include portfolio-header.html %}
-    <img src="/assets/img/portfolio/certify.png" alt="" class="thumb">
+    <img src="/assets/img/portfolio/certify.png" alt="Screenshot of the certify.SBA.gov application landing page" class="thumb">
     <h1>certify.SBA.gov</h1>
     <p>The Small Business Administration's certify.SBA.gov is a digital platform that enables small business owners an easy way to apply for contracting-assistance and business development programs. Many of the SBAs programs use older software or paper for applications. This makes it difficult and time-consuming for both citizens and the SBA to process and maintain. This project aimed to modernize the end-to-end process with a focus on scalable infrastructure and human-centered design.</p>
     <div class="challenges">

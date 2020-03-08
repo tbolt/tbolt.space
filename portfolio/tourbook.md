@@ -5,7 +5,7 @@ title: Tourbook
 <div class="portfolio-item">
   <section>
   {% include portfolio-header.html %}
-    <img src="/assets/img/portfolio/tourbook-screens.png" alt="" class="thumb">
+    <img src="/assets/img/portfolio/tourbook-screens.png" alt="Screenshots of the Tourbook iOS App" class="thumb">
     <h1>Tourbook</h1>
     <p>Tourbook is an app to help you track and log concerts you attend. For frequent concert-goers, remembering the details of past concerts can be tough. "Where did we see them?" "What did they play?" are questions that often spring up and it can be hard to recall long after. Tourbook makes it simple to log and organize all of the concerts you attend over a lifetime.</p>
     <div class="challenges">
@@ -32,7 +32,7 @@ title: Tourbook
     <h2>Current Status</h2>
     <p>When I started the project in 2015 I wanted to keep it focused on some core concepts and ship it as quickly as possible. As with many side projects though, I stopped development and have yet to return to it.</p>
     <p>The project is now open source and available on <a href="https://github.com/tbolt/tourbook-app">github</a>. If you are interested in picking it up, let me know, or just PR/fork it. 👍 </p>
-    <img src="/assets/img/portfolio/tourbook-splash.jpg" alt="">
+    <img src="/assets/img/portfolio/tourbook-splash.jpg" alt="The Tourbook iOS App Icon">
     <p class="picture-caption"><strong>Tourbook iOS app icon</strong></p>
   </section>
 </div>
