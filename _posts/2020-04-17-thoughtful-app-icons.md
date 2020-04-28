@@ -1,7 +1,7 @@
 --- 
 id: 1136 
 title: Thoughtful App Icons
-date: 2020-04-17T09:06:08-04:00 
+date: 2020-04-28T09:06:08-04:00 
 author: Tbolt 
 layout: post 
 guid: /?p=1136 
