@@ -5,7 +5,7 @@ date: 2020-04-28T09:06:08-04:00
 author: Tbolt 
 layout: post 
 guid: /?p=1136 
-permalink: /2020/4/17/thoughtful-app-icons
+permalink: /2020/4/28/thoughtful-app-icons
 categories: 
   - Technology 
 --- 
