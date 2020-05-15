@@ -20,3 +20,5 @@ A few months ago Apple opened up [beta.music.apple.com](https://beta.music.apple
 * Page Weight - It's heavy. Based on my current ~1280x800 viewport it's ~12MB. 
 
 I'm looking forward to this launching, and hoping Apple posts more technical details about how they built it.
+
+Update: Apple does have a [MusicKit API](https://developer.apple.com/musickit/).
