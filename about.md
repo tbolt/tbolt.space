@@ -9,7 +9,7 @@ I'm a UI Designer and Programmer by trade. For a look at some of my work, checko
 
 # Projects
 
-[Boltcss](https://boltcss.com) - Yet another classes css library.
+[Boltcss](https://boltcss.com) - Yet another classless css library.
 
 [Open Podcasting](https://openpodcasting.com) - Spreading awareness of the coming commercialization of podcasting and how we can keep it open.
 
