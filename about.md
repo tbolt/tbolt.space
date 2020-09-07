@@ -11,7 +11,7 @@ I'm a UI Designer and Programmer by trade. For a look at some of my work, checko
 
 [Boltcss](https://boltcss.com) - Yet another classless css library.
 
-[Open Podcasting](https://openpodcasting.com) - Spreading awareness of the coming commercialization of podcasting and how we can keep it open.
+[Open Podcasting](https://openpodcasting.com) - Spreading awareness of the increasing gatekeeping of podcasting and how we can keep it open.
 
 [Tree](https://github.com/tbolt/tree) - A social network that doesn't track you. 
 
