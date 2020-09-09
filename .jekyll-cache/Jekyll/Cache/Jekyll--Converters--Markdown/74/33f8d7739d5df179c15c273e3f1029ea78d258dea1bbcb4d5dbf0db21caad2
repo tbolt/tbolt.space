@@ -1,0 +1,15 @@
+I"|<p>A few months ago Apple opened up <a href="https://beta.music.apple.com">beta.music.apple.com</a> on the web as a beta. I spent a few minutes poking around in dev tools and found some neat things about it. Keep in mind it’s still in beta, so it’s subject to change.</p>
+
+<ul>
+  <li><a href="https://emberjs.com">Ember.js</a> - Interesting to see Apple us this as it’s not currently fashionable in the way React/Vue are. Good for them.</li>
+  <li>SF Pro Icons - Seeing a few font files come down in <code class="language-plaintext highlighter-rouge">/fonts/SF-Pro-Icons/v1/</code>. I assume these contain <a href="https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/">SF Symbols</a>.</li>
+  <li>Musickit - This name is used in a primary JS file <code class="language-plaintext highlighter-rouge">musickit.js</code> and throughout the app. I’m curious if there will be any developer APIs offered under a <code class="language-plaintext highlighter-rouge">MusicKit</code> name in the future.</li>
+  <li>BEM Syntax - They’re using a variant of BEM, at least thats my impression from just a quick glance at the markup.</li>
+  <li>Frosted Glass - Apple is using <a href="https://webkit.org/demos/backdrop-filter/">-webkit-backdrop-filter</a> to achieve it’s characteristic “frosted glass” look.</li>
+  <li>Page Weight - It’s heavy. Based on my current ~1280x800 viewport it’s ~12MB.</li>
+</ul>
+
+<p>I’m looking forward to this launching, and hoping Apple posts more technical details about how they built it.</p>
+
+<p>Update: Apple does have a <a href="https://developer.apple.com/musickit/">MusicKit API</a>.</p>
+:ET

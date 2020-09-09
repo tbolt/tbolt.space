@@ -1,0 +1,6 @@
+I"2<p>Really <a href="https://resilientwebdesign.com">great new web book from Jeremy Keith</a>, I loved this part:</p>
+<blockquote>
+  <p>Despite JavaScript’s fragile error‐handling model, web designers became more reliant on JavaScript over time. In 2015, NASA relaunched its website as a web app. If you wanted to read the latest news of the agency’s space exploration efforts, you first had to download and execute three megabytes of JavaScript. This content—text and images—could have been delivered in the HTML, but the developers decided to use Ajax to retrieve this data instead. Until all that JavaScript was loaded, parsed, and executed, visitors to the site were left staring at a black background. Perhaps this was intended as a demonstration of the vast lonely emptiness of space.</p>
+</blockquote>
+
+:ET
