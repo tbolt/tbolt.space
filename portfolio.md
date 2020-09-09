@@ -6,7 +6,7 @@ title: Portfolio
   <section class="portfolio-section">
     <div class="portfolio__work-container">
       <section class="portfolio-section portfolio__header">
-        <h1 class="portfolio__header--logo"><a href="/">Ty Bolchoz</a></h1>
+        <h1 class="portfolio__header--logo"><a href="/">Ty Bolt</a></h1>
         <h1 class="portfolio__header--tag">Product Designer</h1>
         <h4 class="portfolio__header--company">@ <a class="fearless" href="https://fearless.tech">Fearless</a></h4>
       </section>

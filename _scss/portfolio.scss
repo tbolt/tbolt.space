@@ -149,8 +149,17 @@ h4.portfolio__header--company {
   font-size: 13px;
 }
 
+.portfolio__thumbnail {
+  border: 2px solid whitesmoke;
+}
+
+.portfolio__thumbnail:hover {
+  border: 2px solid #3fb699;  
+}
+
+
 .portfolio__thumbnail:hover .project-decription {
-  border-color: #777;
+  border-color: #3fb699;
 }
 
 .portfolio__thumbnail:hover {
