@@ -5,7 +5,7 @@ date: 2019-09-04T12:37:09-04:00
 author: Tbolt
 layout: post 
 guid: /?p=1133 
-permalink: /2019/9/4/look-back-bloomberg-keyboard 
+permalink: /2019/9/4/look-back-bloomberg-keyboard
 categories: 
   - Technology 
 --- 

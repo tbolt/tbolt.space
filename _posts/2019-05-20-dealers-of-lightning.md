@@ -5,7 +5,7 @@ date: 2019-05-20T09:02:52-04:00
 author: Tbolt
 layout: post
 guid: /?p=1132
-permalink: /2019/5/20/dealers-of-lightning.md
+permalink: /2019/5/20/dealers-of-lightning
 categories:
   - Technology
 ---

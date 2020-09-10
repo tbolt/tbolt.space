@@ -1,6 +1,6 @@
 --- 
 id: 1138 
-title: AT&T Archives: The UNIX Operating System 
+title: "AT&T Archives: The UNIX Operating System"
 date: 2020-09-10T16:00:09-04:00 
 author: Tbolt 
 layout: post 
