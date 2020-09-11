@@ -1,3 +1,41 @@
+/* Code */
+pre,
+code {
+	font-size: 0.8rem;
+	border-radius: 4px;
+	background-color: #383838;
+	font-family: "Source Code Pro";
+}
+
+code {
+	padding: 1px 5px;
+}
+
+pre {
+	padding: 8px 12px;
+	overflow-x: auto;
+}
+
+pre > code {
+	border: 0;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.highlight .lineno {
+	color: #aaa;
+	display: inline-block;
+	padding: 0 5px;
+	border-right: 1px solid #ccc;
+}
+
+.highlight pre code {
+	display: block;
+	white-space: pre;
+	overflow-x: auto;
+	word-wrap: normal;
+}
+
 .highlight .hll { background-color: #ffc; }
 .highlight .c { color: #999; } /* Comment */
 .highlight .err { color: #a00; background-color: #faa } /* Error */
