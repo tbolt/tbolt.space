@@ -12,7 +12,7 @@ title: Btrue
     <div class="challenges">
       <div class="column--heavy">
         <h3>Challenges</h3>
-        <p>This project began in 2013, which was only a few years after the iPad was released. This provided a fresh canvas for new interaction patterns and designs, but a bit challenging since there were not many conventions.</p>
+        <p>The project began in 2013, which was only a few years after the original iPad was released. This provided a fresh canvas for new interaction patterns and designs, but a challenge given the lack of conventions and familiarity.</p>
         <p>Some of the project goals were fairly ambitious, such as a digital signature input, full CRM with scheduling, and inventory management.</p>
       </div>
       <div>
