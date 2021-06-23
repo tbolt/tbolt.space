@@ -9,7 +9,4 @@ Built using the following technologies
 * Sass
 * Font Awesome
 * Markdown
-* Google Fonts
-
-
-Portfolio homepage forked from [ampinsk.github.io](https://github.com/ampinsk/ampinsk.github.io)
+* [Inter Font](https://rsms.me/inter/)
