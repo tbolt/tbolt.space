@@ -13,7 +13,4 @@ Welcome. Here you will find various links, quotes, and short writings on topics 
 
 [Tree](https://github.com/tbolt/tree) - A social network that doesn't track you. 
 
-# Articles
-[Designing with Users: USDS at SBA](https://medium.com/the-u-s-digital-service/designing-with-users-usds-at-sba-e04f5e3911b8)
-
 
