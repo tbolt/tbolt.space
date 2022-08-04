@@ -1,0 +1,18 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "bundle install\njekyll build"
+    },
+    "clean" : {
+      "enabled" : true,
+      "script" : "jekyll clean"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "jekyll serve --port 8090"
+    }
+  },
+  "identifier" : "795A8BD5-1783-4F58-B7C5-CB7861AEB003",
+  "persistent" : true
+}
