@@ -1,13 +1,14 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
   <body>
     <main>
       {% include header.html %}
-      <div class="post-container">
-        {{ content }}
-      </div>
+      <div class="post-container">{{ content }}</div>
       {% include footer.html %}
     </main>
+    <div class="verification-links hidden">
+      <a rel="me" href="https://indieweb.social/@tbolt">Mastodon</a>
+    </div>
   </body>
 </html>
