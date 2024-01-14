@@ -4,9 +4,9 @@ author:
   twitter: tbolt
 
 pages:
-- {name: 'About', url: 'about'}
-- {name: 'Contact', url: 'contact'}
+  - { name: "About", url: "about" }
+  - { name: "Contact", url: "contact" }
 
 social:
-- {icon: 'github', link: 'https://www.github.com/tbolt'}
-- {icon: 'twitter', link: 'https://twitter.com/tbolt'}
+  - { icon: "github", link: "https://www.github.com/tbolt" }
+  - { icon: "twitter", link: "https://twitter.com/tbolt" }

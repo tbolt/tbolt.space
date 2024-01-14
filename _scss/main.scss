@@ -9,7 +9,7 @@ body {
 }
 
 a {
-  color: #3fb699;
+  color: var(--links);
   text-decoration: none;
 }
 
@@ -24,7 +24,7 @@ header {
 }
 header a {
   color: inherit;
-  font-size: 2.5rem;
+  font-size: 2.75rem;
   font-weight: 700;
 }
 
@@ -37,9 +37,15 @@ header a {
 }
 
 .menu-content a {
-  color: #77b2f9;
+  color: var(--links);
   font-size: 1rem;
   margin-right: 20px;
+  font-weight: 500;
+}
+
+/* Page */
+.page-title {
+  font-size: 1.75rem;
   font-weight: 500;
 }
 
