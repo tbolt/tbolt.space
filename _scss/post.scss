@@ -1,0 +1,23 @@
+/* Post */
+.post-title a {
+  color: var(--text);
+}
+
+.post-container {
+  margin-bottom: 4rem;
+  clear: both;
+}
+
+.posts {
+  margin-bottom: 5rem;
+  padding: 0px;
+  list-style: none;
+}
+
+.post-date {
+  display: block;
+  color: var(--text);
+  font-size: 0.8rem;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}

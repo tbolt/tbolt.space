@@ -1,17 +1,15 @@
 # Site Settings
-paginate:            7
+paginate: 7
 
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-feed]
+markdown: kramdown
+permalink: none
+plugins: [jekyll-paginate, jekyll-feed]
 
 # Sass settings
 sass:
-  sass_dir:          _scss
+  sass_dir: _scss
 style: :compressed
 
 # Github settings
 site.github.url: https://tbolt.space
-

@@ -2,6 +2,8 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
+@import "bolt";
 @import "fonts";
 @import "main";
-@import "syntax";
+@import "pagination";
+@import "post";
