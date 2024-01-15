@@ -9,6 +9,7 @@ permalink: /2014/07/16/helvetica-neue-in-os-x/
 categories:
   - Technology
 ---
+
 When Apple unveiled OS X Yosemite at this years WWDC, I was pleasantly surprised with the design changes. They were practical yet refreshing and more inline with iOS 7.
 
 However, after spending some time with Yosemite there is one item that I have yet to warm up to: Helvetica Neue. Changing the system font is a tall order, especially from one that has proven itself over its long span.
@@ -23,6 +24,6 @@ Even if Retina Displays help, they are really not common yet for Macs. Let&#8217
 
 <img src="/uploads/2014/07/july2014maclineup.png" alt="July 2014 Mac Lineup" width="600" height="131" class="aligncenter size-full wp-image-927" srcset="/uploads/2014/07/july2014maclineup.png 600w, /uploads/2014/07/july2014maclineup-300x65.png 300w" sizes="(max-width: 600px) 100vw, 600px" />
 
-Only one of the above five has an Apple Retina Display. Granted the Macbook Pro w/Retina Display is probably one of the best selling in the lineup. Still, Retina Macs are simply not pervasive. I suppose we could see new Retina Macbook Airs and iMacs, along with a new Retina Thunderbolt display this year and that would cover the whole line up, but that&#8217;s hoping for a lot.
+Only one of the above five has an Apple Retina Display. Granted the Macbook Pro w/Retina Display is probably the best selling in the lineup. Still, Retina Macs are simply not pervasive. I suppose we could see new Retina Macbook Airs and iMacs, along with a new Retina Thunderbolt display this year and that would cover the whole line up, but that&#8217;s hoping for a lot.
 
 It will take time for Helvetica in OS X to sink in and prove itself.
