@@ -5,6 +5,6 @@ title: Contact
 
 Email - [tybolt@gmail.com](mailto:tybolt@gmail.com)
 
-Twitter - [@tbolt](https://twitter.com/tbolt)
+X - [@tbolt](https://x.com/tbolt)
 
 Mastodon - [@tbolt@indieweb.social](https://indieweb.social/@tbolt)
