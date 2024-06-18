@@ -16,16 +16,20 @@ Programmers are often notoriously bad at naming things, so it's no surprise that
 
 Honorable mentions: `C` `Ruby` `ColdFusion` `Simula` `AWK`
 
-## Rust
+### Rust
+
 A great name for a programming language, and easily my favorite. The subtle hint that this is intended to be a systems language and "closer to the metal" is just perfect.
 
-## Ada
+### Ada
+
 The name Ada stands up on it's own. Being named after the [first computer programmer](https://en.wikipedia.org/wiki/Ada_Lovelace) is just icing on top.
 
-## Lua
+### Lua
+
 What does Lua mean? Don't know, but I like it.
 
-## Swift
+### Swift
+
 I haven't used Swift enough to know if it's a truly swift programming language, but the name checks out.
 
 Update: [Lua means “moon” in Portuguese.](https://lobste.rs/s/v5djol/favorite_programming_language_names#c_j8esrn)
