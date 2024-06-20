@@ -39,11 +39,11 @@ Other Thoughts
 
 I'm writing this post on MacOS Sonoma, in the [Nova](https://nova.app) text editor. Nova is one of the best pieces of software I've ever used. It's refined and polished and there's no equivalent on Linux and Windows. It has it's own personality, but also feels like an extension of the operating system. Which is a hallmark of a great Mac app. Folks in the community call them [Mac-assed Mac apps](https://inessential.com/2020/03/19/proxyman.html). These apps are what make MacOS really great. The best apps I have used are all Mac apps.
 
-MacOS has best-in-class UI Design. There are some rough edges, News and System Settings come to mind, but overall it's the most elegant and cohesive system. My favorite example of this is when you send an email with Mail.app. Pressing send plays a whoosh sound effect, but the [sound effect](https://www.youtube.com/watch?v=l5_GD0-_EII) is in stereo! Discovering these details over the years has been a delight, and it's made me want to learn all the little spells the OS provides. As well, there are so many instances where I think I ought to be able to do something, and lo and behold, it works as expected.
+MacOS has best-in-class UI Design. There are some rough edges, News and System Settings come to mind, but overall it's the most elegant and cohesive system. My favorite example of this is when you send an email with Mail.app. Pressing send plays a whoosh sound effect and it's in [stereo!](https://www.youtube.com/watch?v=l5_GD0-_EII) Discovering these details over the years has been a delight, and it's made me want to learn all the little spells the OS provides. As well, there are so many instances where I think I ought to be able to do something, and lo and behold, it works as expected.
 
 Apple has historically been apathetic towards gaming, for whatever reason. This wasn't always the case. In the late 90s and early 00s I had a ton of fun gaming on Mac. Most (all?) Blizzard titles, the Marathon series, and tons of great shareware and indie games. I'm still bitter [Halo was rug-pulled from Mac](https://www.halopedia.org/Halo_announcement_trailer). Apple seems to be more interested in gaming lately with their efforts in Game Porting Toolkit. I'm a bit jaded on Mac gaming though, and I think Apple did a fair amount of damage to the game dev industry with the App Store. That's for another post though.
 
-Lastly, The Apple ecosystem and cross-product integration is amazing. Universal Control, Universal Clipboard, Continuity and so on feel like magic. I appreciate and use many of the integrations today. These integrations create strong lock-in though which doesn't feel particularly great.
+The Apple ecosystem and cross-product integration is amazing. Universal Control, Universal Clipboard, Continuity and so on feel like magic. I appreciate and use many of the integrations today but they create strong lock-in which doesn't feel particularly great.
 
 ![Screenshot of MacOS Sierra](/uploads/2024/06/mac.jpg)
 
@@ -52,17 +52,17 @@ Other Thoughts
 - Migration Assistant is underrated and makes moving from one machine to another really easy.
 - Mac App Store isn't great. It doesn't allow upgrade pricing and is generally full of junk.
 - Ads are creeping in, will likely get worse.
-- Notes.app is great and continues to get better and more capable.
+- Notes.app is brilliant and continues to get better and more capable.
 
 ### Linux
 
-Years ago, I enjoyed trying out different Linux distros, [window managers](https://en.wikipedia.org/wiki/Compiz), and extensions. It was fun spending hours making it [look like](https://www.reddit.com/r/unixporn/) you could [hack the Gibson](<https://en.wikipedia.org/wiki/Hackers_(film)>). However, nowadays, I'm less enthusiastic about tinkering and configuring systems. Fortunately, I've found that Ubuntu with Gnome offers a satisfying out-of-the-box experience. In fact, Gnome and [its app ecosystem](https://apps.gnome.org) reminds me of MacOS quite a bit. Two thumbs up to the Gnome developer team.
+Years ago, I enjoyed trying out different Linux distros, [window managers](https://en.wikipedia.org/wiki/Compiz), and extensions. It was fun spending hours making it [look like](https://www.reddit.com/r/unixporn/) you could [hack the Gibson](<https://en.wikipedia.org/wiki/Hackers_(film)>). Nowadays, I'm less enthusiastic about tinkering and configuring systems. Fortunately, I've found that Ubuntu with Gnome offers a satisfying out-of-the-box experience. In fact, Gnome and [its app ecosystem](https://apps.gnome.org) reminds me of MacOS quite a bit. Two thumbs up to the Gnome dev team.
 
 I maintained a Ubuntu instance for close to 10 years on my [HP N40L MicroServer](https://n40l.fandom.com/wiki/HP_MicroServer_N40L_Wiki). I loved that little machine and all the tinkering it afforded. Running anything but Linux on it would have felt weird.
 
-Linux is top-notch for [software development](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7), and quickly becoming a compelling choice for gaming thanks to [Valve's Proton](https://github.com/ValveSoftware/Proton) and the [SteamDeck](https://www.steamdeck.com). I keep telling myself I'm going to switch my PC from Windows to Linux but it hasn't happened yet (dual-booting doesn't count!).
+Linux is top-notch for [software development](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7), and quickly becoming a compelling choice for gaming thanks to [Valve's Proton](https://github.com/ValveSoftware/Proton) and the [SteamDeck](https://www.steamdeck.com). I keep telling myself I'm going to switch my PC from Windows to Linux but it hasn't happened yet (I'm not counting dual-booting).
 
-It's [slowly gaining](https://arstechnica.com/gadgets/2024/03/linux-continues-growing-market-share-reaches-4-of-desktops) adoption which is great to see. The Windows hegemony may never be toppled but I'll be rooting for Linux.
+It's [slowly gaining](https://arstechnica.com/gadgets/2024/03/linux-continues-growing-market-share-reaches-4-of-desktops) adoption which is great to see. The Windows hegemony may never be toppled but I'm rooting for Linux.
 
 ![Linux Ubuntu on a Thinkpad T460s](/uploads/2024/06/linux.jpg)
 
@@ -72,4 +72,4 @@ Other Thoughts
 - Snap is a tragedy. I hate it. I will likely switch to Fedora due to it.
 - [Asahi Linux](https://asahilinux.org) looks amazing.
 
-There ya have it, my thoughts on modern desktop operating systems. Maybe I'll revisit this and do a follow-up in 5-10 years.
+There ya have it, my thoughts on modern desktop operating systems. Stay tuned for my thoughts on desktop operating systems in 2034.
