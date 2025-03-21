@@ -1,9 +1,14 @@
 require 'date'
 require 'time'
 
+# Generates YAML front matter for new jekyll blog
+# @param id [String] The unique identifier for the post
+# @param title [String] The title of the post
+# @param slug [String] The URL-friendly slug for the post
+# @return [String] The formatted YAML front matter
 def file_template(id, title, slug)
   date = Time.new()
-
+  
   header = "--- \n"
   header += "id: #{id} \n"
   header += "title: #{title} \n"
@@ -15,13 +20,19 @@ def file_template(id, title, slug)
   header += "categories: \n"
   header += "  - Technology \n"
   header += "--- \n"
+  
   return header
 end
 
+# Generate filename based on current date
+# @param slug [String] The slug used in the filename
+# @return [String] The formatted filename
 def file_name(slug)
   "_posts/" + "#{Time.new.to_date.to_s}-" + slug + ".md"
 end
 
+# Retrieve the most recent post ID and increment it
+# @return [String] The new incremented post ID
 def get_previous_post_id
   # Get most recent post
   most_recent_file = Dir.glob("./_posts/*").sort_by { |f| File.mtime(f) }.reverse[0]
