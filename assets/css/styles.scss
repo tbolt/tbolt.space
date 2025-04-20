@@ -2,7 +2,7 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@use "fonts";
-@use "main";
-@use "pagination";
-@use "post";
+@import "fonts";
+@import "main";
+@import "pagination";
+@import "post";
