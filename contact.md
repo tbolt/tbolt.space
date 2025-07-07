@@ -9,4 +9,3 @@ X - [@tbolt](https://x.com/tbolt) (Inactive)
 
 Mastodon - [@tbolt@indieweb.social](https://indieweb.social/@tbolt)
 
-Bluesky - [@tbolt.space](https://bsky.app/profile/tbolt.space)
