@@ -7,4 +7,4 @@ Email - [tybolt@gmail.com](mailto:tybolt@gmail.com)
 
 X - [@tbolt](https://x.com/tbolt) (Inactive)
 
-Mastodon - [@tbolt@indieweb.social](https://ruby.social/@tbolt)
+Mastodon - [@tbolt@ruby.social](https://ruby.social/@tbolt)
