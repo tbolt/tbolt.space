@@ -5,7 +5,7 @@ date: 2024-06-20T10:11:46-04:00
 author: tbolt
 layout: post
 guid: /?p=1140
-permalink: /2024/6/20/thoughts-on-desktop-operating-systems-2024
+permalink: /2024/6/20/desktop-operating-systems-2024
 categories:
   - Technology
 ---
