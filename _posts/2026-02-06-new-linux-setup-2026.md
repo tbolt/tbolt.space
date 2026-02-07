@@ -18,6 +18,6 @@ Gaming still works well. Steam with Proton is excellent. Valve and the folks beh
 
 For development work I still prefer MacOS and the [Nova](https://nova.app) text editor. Nova has good SSH/SFTP support, so I can connect to my Linux box and work on projects remotely, and I often do. Agent forwarding with 1Password SSH Agent means I can still use my GitHub key from the Mac. It's a nice setup.
 
-On iPhone and iPad I use [Prompt](https://panic.com/prompt/) for SSH. It's a bit expensive and a little buggy but otherwise a great app. Plus I can VPN into my home network when I'm away. I've been tinkering with Claude Code this way, and it's a wild setup.
+On iPhone and iPad I use [Prompt](https://panic.com/prompt/) for SSH. It's a bit pricey and has a few bugs, but it's otherwise a great app. Additionally, I can connect to my home network via VPN/WireGuard when I’m away. I've been experimenting with Claude Code this way, and it's equal parts impressive and unnerving.
 
 ![Screenshot of Claude Code in Prompt 3 app on an iPhone](/uploads/2026/02/claudecodemobile.jpg)
