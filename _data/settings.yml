@@ -1,7 +1,5 @@
 title: tbolt
 tagline: UI Design & Programming
-author:
-  twitter: tbolt
 
 pages:
   - { name: "About", url: "about" }
@@ -9,4 +7,3 @@ pages:
 
 social:
   - { icon: "github", link: "https://www.github.com/tbolt" }
-  - { icon: "twitter", link: "https://twitter.com/tbolt" }
