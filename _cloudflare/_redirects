@@ -1,3 +1,5 @@
 /feed.xml  https://scrollofwisdom.com/feed.xml  301
+/2026/7/31/moving-to-scrollofwisdom  https://scrollofwisdom.com/  301
+/2026/7/31/moving-to-scrollofwisdom/  https://scrollofwisdom.com/  301
 /:year/:month/:day/:slug  https://scrollofwisdom.com/:year/:month/:day/:slug  301
 /:year/:month/:day/:slug/  https://scrollofwisdom.com/:year/:month/:day/:slug/  301
